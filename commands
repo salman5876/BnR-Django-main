@@ -1,0 +1,20 @@
+sudo docker build -t brainplow/shopnroarbackenddev .
+sudo docker push brainplow/shopnroarbackenddev
+
+sudo docker build -t brainplowqa/shopnroarbackenddev .
+sudo docker push brainplowqa/shopnroarbackenddev
+
+sudo docker run -p 8002:8000 brainplow/shopnroarbackenddev
+sudo docker run -p 8009:8000 -d  brainplow/shopnroarbackenddev python mainfile.py
+sudo docker run -p 8006:8000 -d  brainplow/shopnroarbackenddev python manage.py runcrons --silent
+python manage.py runcrons "dailydeals.cron.MyCronJob"
+python manage.py runcrons "mainfile.cron.MyCronJob"
+python manage.py runcrons --silentfollwoing
+\\
+sudo docker run -p 8009:8000 -d brainplow/shopnroarbackenddev python mainfile.py
+
+sudo docker pull brainplow/shopnroarbackenddev
+
+
+sudo docker run -p -d 8000:8000   brainplow/shopnroarbackenddev python mainfile.py
+sudo docker run -p 8005:8000  -d brainplow/shopnroarbackenddev python mainreviews.py

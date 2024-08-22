@@ -1,0 +1,200 @@
+Magazines,Pop culture,https://www.amazon.com/s/ref=lp_602328_nr_n_6?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602328%2Cn%3A252618011&bbn=602328&ie=UTF8&qid=1552637139&rnid=602328
+Magazines,Puzzles & games,https://www.amazon.com/s/ref=lp_602328_nr_n_7?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602328%2Cn%3A602336&bbn=602328&ie=UTF8&qid=1552637139&rnid=602328
+Magazines,Sci-fi & fantasy,https://www.amazon.com/s/ref=lp_602328_nr_n_8?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602328%2Cn%3A254618011&bbn=602328&ie=UTF8&qid=1552637139&rnid=602328
+Magazines,Tabloids,https://www.amazon.com/s/ref=lp_602328_nr_n_9?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602328%2Cn%3A726925011&bbn=602328&ie=UTF8&qid=1552637139&rnid=602328
+Magazines,Television,https://www.amazon.com/s/ref=lp_602328_nr_n_10?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602328%2Cn%3A13006651&bbn=602328&ie=UTF8&qid=1552637139&rnid=602328
+Magazines,Video games,https://www.amazon.com/s/ref=lp_602328_nr_n_11?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602328%2Cn%3A252650011&bbn=602328&ie=UTF8&qid=1552637139&rnid=602328
+Magazines,Beauty,https://www.amazon.com/s/ref=lp_602332_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602332%2Cn%3A13006751&bbn=602332&ie=UTF8&qid=1552637170&rnid=602332
+Magazines,International,https://www.amazon.com/s/ref=lp_602332_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602332%2Cn%3A13006821&bbn=602332&ie=UTF8&qid=1552637170&rnid=602332
+Magazines,Men,https://www.amazon.com/s/ref=lp_602332_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602332%2Cn%3A637728&bbn=602332&ie=UTF8&qid=1552637170&rnid=602332
+Magazines,Women,https://www.amazon.com/s/ref=lp_602332_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602332%2Cn%3A637730&bbn=602332&ie=UTF8&qid=1552637170&rnid=602332
+Magazines,Alternative medicine,https://www.amazon.com/s/ref=lp_602340_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602340%2Cn%3A252674011&bbn=602340&ie=UTF8&qid=1552637183&rnid=602340
+Magazines,Diets & weight loss,https://www.amazon.com/s/ref=lp_602340_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602340%2Cn%3A252693011&bbn=602340&ie=UTF8&qid=1552637183&rnid=602340
+Magazines,Health,https://www.amazon.com/s/ref=lp_602340_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602340%2Cn%3A637752&bbn=602340&ie=UTF8&qid=1552637183&rnid=602340
+Magazines,Men,https://www.amazon.com/s/ref=lp_602340_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602340%2Cn%3A637754&bbn=602340&ie=UTF8&qid=1552637183&rnid=602340
+Magazines,Nutrition,https://www.amazon.com/s/ref=lp_602340_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602340%2Cn%3A252828011&bbn=602340&ie=UTF8&qid=1552637183&rnid=602340
+Magazines,Psychology & counseling,https://www.amazon.com/s/ref=lp_602340_nr_n_5?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602340%2Cn%3A252839011&bbn=602340&ie=UTF8&qid=1552637183&rnid=602340
+Magazines,Women,https://www.amazon.com/s/ref=lp_602340_nr_n_6?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602340%2Cn%3A637756&bbn=602340&ie=UTF8&qid=1552637183&rnid=602340
+Magazines,Antiques & collectibles,https://www.amazon.com/s/ref=lp_602344_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A16014521&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Bridal & weddings,https://www.amazon.com/s/ref=lp_602344_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A602318&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Country life,https://www.amazon.com/s/ref=lp_602344_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A349062011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Design & decoration,https://www.amazon.com/s/ref=lp_602344_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A637734&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Farming,https://www.amazon.com/s/ref=lp_602344_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A349064011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Gardening & horticulture,https://www.amazon.com/s/ref=lp_602344_nr_n_5?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A637736&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Home design,https://www.amazon.com/s/ref=lp_602344_nr_n_6?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A253161011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Home organization,https://www.amazon.com/s/ref=lp_602344_nr_n_7?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A253168011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,How-to & home improvements,https://www.amazon.com/s/ref=lp_602344_nr_n_8?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A637738&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Interior design,https://www.amazon.com/s/ref=lp_602344_nr_n_9?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A253194011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Log homes,https://www.amazon.com/s/ref=lp_602344_nr_n_10?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A349061011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Luxury homes,https://www.amazon.com/s/ref=lp_602344_nr_n_11?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A349063011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Pets & animals,https://www.amazon.com/s/ref=lp_602344_nr_n_12?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A602360&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Sustainable living,https://www.amazon.com/s/ref=lp_602344_nr_n_13?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A253206011&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Woodworking,https://www.amazon.com/s/ref=lp_602344_nr_n_14?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602344%2Cn%3A637742&bbn=602344&ie=UTF8&qid=1552637203&rnid=602344
+Magazines,Gay & lesbian,https://www.amazon.com/s/ref=lp_602348_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A602338&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Health,https://www.amazon.com/s/ref=lp_602348_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A602340&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Men's interest,https://www.amazon.com/s/ref=lp_602348_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A602352&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Movies,https://www.amazon.com/s/ref=lp_602348_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A637722&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Pop culture,https://www.amazon.com/s/ref=lp_602348_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A252618011&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Religion & spirituality,https://www.amazon.com/s/ref=lp_602348_nr_n_5?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A602362&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Sports recreation & outdoors,https://www.amazon.com/s/ref=lp_602348_nr_n_6?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A602366&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Television,https://www.amazon.com/s/ref=lp_602348_nr_n_7?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A13006651&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Travel,https://www.amazon.com/s/ref=lp_602348_nr_n_8?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A602370&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Women's interest,https://www.amazon.com/s/ref=lp_602348_nr_n_9?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602348%2Cn%3A602372&bbn=602348&ie=UTF8&qid=1552637242&rnid=602348
+Magazines,Literary magazines & journals,https://www.amazon.com/s/ref=lp_254618011_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A254618011%2Cn%3A602350&bbn=254618011&ie=UTF8&qid=1552637269&rnid=254618011
+Magazines,Mystery,https://www.amazon.com/s/ref=lp_254618011_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A254618011%2Cn%3A16542978011&bbn=254618011&ie=UTF8&qid=1552637269&rnid=254618011
+Magazines,Science fiction & fantasy,https://www.amazon.com/s/ref=lp_254618011_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A254618011%2Cn%3A16542981011&bbn=254618011&ie=UTF8&qid=1552637269&rnid=254618011
+Magazines,Entertainment,https://www.amazon.com/s/ref=lp_602352_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602352%2Cn%3A602328&bbn=602352&ie=UTF8&qid=1552637281&rnid=602352
+Magazines,Fashion,https://www.amazon.com/s/ref=lp_602352_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602352%2Cn%3A637728&bbn=602352&ie=UTF8&qid=1552637281&rnid=602352
+Magazines,Health & fitness,https://www.amazon.com/s/ref=lp_602352_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602352%2Cn%3A637754&bbn=602352&ie=UTF8&qid=1552637281&rnid=602352
+Magazines,Ideas & commentary,https://www.amazon.com/s/ref=lp_602358_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602358%2Cn%3A742402&bbn=602358&ie=UTF8&qid=1552637289&rnid=602358
+Magazines,Regional,https://www.amazon.com/s/ref=lp_602358_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602358%2Cn%3A742404&bbn=602358&ie=UTF8&qid=1552637289&rnid=602358
+Magazines,Newsletters,https://www.amazon.com/s/ref=lp_599858_nr_n_14?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A16416041&bbn=599872&ie=UTF8&qid=1552637023&rnid=599872
+Magazines,Business & finance,https://www.amazon.com/s/ref=lp_1040160_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1040160%2Cn%3A1200006&bbn=1040160&ie=UTF8&qid=1552637301&rnid=1040160
+Magazines,Law & government,https://www.amazon.com/s/ref=lp_1040160_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1040160%2Cn%3A1200012&bbn=1040160&ie=UTF8&qid=1552637301&rnid=1040160
+Magazines,Lifestyles cultures & religions,https://www.amazon.com/s/ref=lp_1040160_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1040160%2Cn%3A1200010&bbn=1040160&ie=UTF8&qid=1552637301&rnid=1040160
+Magazines,News & current events,https://www.amazon.com/s/ref=lp_1040160_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1040160%2Cn%3A1200014&bbn=1040160&ie=UTF8&qid=1552637301&rnid=1040160
+Magazines,Science & technology,https://www.amazon.com/s/ref=lp_1040160_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1040160%2Cn%3A1200008&bbn=1040160&ie=UTF8&qid=1552637301&rnid=1040160
+Magazines,Education,https://www.amazon.com/s/ref=lp_602330_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602330%2Cn%3A638992&bbn=602330&ie=UTF8&qid=1552637320&rnid=602330
+Magazines,Parenting,https://www.amazon.com/s/ref=lp_602330_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602330%2Cn%3A253410011&bbn=602330&ie=UTF8&qid=1552637320&rnid=602330
+Magazines,Pregnancy & childbirth,https://www.amazon.com/s/ref=lp_602330_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602330%2Cn%3A254953011&bbn=602330&ie=UTF8&qid=1552637320&rnid=602330
+Magazines,Pets & animals,https://www.amazon.com/s/ref=lp_599858_nr_n_17?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602360&bbn=599872&ie=UTF8&qid=1552637023&rnid=599872
+Magazines,Education,https://www.amazon.com/s/ref=lp_16542982011_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A16542982011%2Cn%3A1115918&bbn=16542982011&ie=UTF8&qid=1552637332&rnid=16542982011
+Magazines,Large print,https://www.amazon.com/s/ref=lp_16542982011_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A16542982011%2Cn%3A253238011&bbn=16542982011&ie=UTF8&qid=1552637332&rnid=16542982011
+Magazines,Professional & trade,https://www.amazon.com/s/ref=lp_16542982011_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A16542982011%2Cn%3A1115660&bbn=16542982011&ie=UTF8&qid=1552637332&rnid=16542982011
+Magazines,Medicine,https://www.amazon.com/s/ref=lp_16542982011_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A16542982011%2Cn%3A1116172&bbn=16542982011&ie=UTF8&qid=1552637332&rnid=16542982011
+Magazines,Buddhism,https://www.amazon.com/s/ref=lp_602362_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254116011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Christianity,https://www.amazon.com/s/ref=lp_602362_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254117011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Hinduism,https://www.amazon.com/s/ref=lp_602362_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254162011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Islam,https://www.amazon.com/s/ref=lp_602362_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254163011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Judaism,https://www.amazon.com/s/ref=lp_602362_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254164011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,New age,https://www.amazon.com/s/ref=lp_602362_nr_n_5?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254166011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Occult,https://www.amazon.com/s/ref=lp_602362_nr_n_6?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254167011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Other eastern religions,https://www.amazon.com/s/ref=lp_602362_nr_n_7?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254168011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Other practices,https://www.amazon.com/s/ref=lp_602362_nr_n_8?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602362%2Cn%3A254169011&bbn=602362&ie=UTF8&qid=1552637344&rnid=602362
+Magazines,Agricultural sciences,https://www.amazon.com/s/ref=lp_602364_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A16572867011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Archaeology,https://www.amazon.com/s/ref=lp_602364_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254173011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Astronomy,https://www.amazon.com/s/ref=lp_602364_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254174011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Behavioral sciences,https://www.amazon.com/s/ref=lp_602364_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254187011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Biological sciences,https://www.amazon.com/s/ref=lp_602364_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254192011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Chemistry,https://www.amazon.com/s/ref=lp_602364_nr_n_5?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254270011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Earth sciences,https://www.amazon.com/s/ref=lp_602364_nr_n_6?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254314011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Essays & commentary,https://www.amazon.com/s/ref=lp_602364_nr_n_7?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254396011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Experiments instruments & measurement,https://www.amazon.com/s/ref=lp_602364_nr_n_8?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254405011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,History,https://www.amazon.com/s/ref=lp_602364_nr_n_9?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A16543041011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Mathematics,https://www.amazon.com/s/ref=lp_602364_nr_n_10?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254428011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Nature & ecology,https://www.amazon.com/s/ref=lp_602364_nr_n_11?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A602356&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Philosophy,https://www.amazon.com/s/ref=lp_602364_nr_n_12?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A16542977011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Physics,https://www.amazon.com/s/ref=lp_602364_nr_n_13?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254527011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Reference,https://www.amazon.com/s/ref=lp_602364_nr_n_14?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254593011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Social sciences,https://www.amazon.com/s/ref=lp_602364_nr_n_15?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A1039940&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Technology,https://www.amazon.com/s/ref=lp_602364_nr_n_16?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602364%2Cn%3A254604011&bbn=602364&ie=UTF8&qid=1552637365&rnid=602364
+Magazines,Spanish-language,https://www.amazon.com/s/ref=lp_599858_nr_n_21?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1040158&bbn=599872&ie=UTF8&qid=1552637023&rnid=599872
+Magazines,Outdoors & nature,https://www.amazon.com/s/ref=lp_253359011_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A253359011%2Cn%3A253367011&bbn=253359011&ie=UTF8&qid=1552637409&rnid=253359011
+Magazines,Sports & leisure,https://www.amazon.com/s/ref=lp_253359011_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A253359011%2Cn%3A602366&bbn=253359011&ie=UTF8&qid=1552637409&rnid=253359011
+Magazines,Computers & internet,https://www.amazon.com/s/ref=lp_1116266_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1116266%2Cn%3A602324&bbn=1116266&ie=UTF8&qid=1552637416&rnid=1116266
+Magazines,Electronics,https://www.amazon.com/s/ref=lp_1116266_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A1116266%2Cn%3A602326&bbn=1116266&ie=UTF8&qid=1552637416&rnid=1116266
+Magazines,Africa,https://www.amazon.com/s/ref=lp_602370_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602370%2Cn%3A16542985011&bbn=602370&ie=UTF8&qid=1552637423&rnid=602370
+Magazines,Asia,https://www.amazon.com/s/ref=lp_602370_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602370%2Cn%3A16542986011&bbn=602370&ie=UTF8&qid=1552637423&rnid=602370
+Magazines,Australia,https://www.amazon.com/s/ref=lp_602370_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602370%2Cn%3A16542987011&bbn=602370&ie=UTF8&qid=1552637423&rnid=602370
+Magazines,Europe,https://www.amazon.com/s/ref=lp_602370_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602370%2Cn%3A16542988011&bbn=602370&ie=UTF8&qid=1552637423&rnid=602370
+Magazines,South america,https://www.amazon.com/s/ref=lp_602370_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602370%2Cn%3A16542989011&bbn=602370&ie=UTF8&qid=1552637423&rnid=602370
+Magazines,United states,https://www.amazon.com/s/ref=lp_602370_nr_n_5?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602370%2Cn%3A254762011&bbn=602370&ie=UTF8&qid=1552637423&rnid=602370
+Magazines,Bridal & weddings,https://www.amazon.com/s/ref=lp_602372_nr_n_0?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A602318&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Fashion,https://www.amazon.com/s/ref=lp_602372_nr_n_1?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A637730&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Women's lifestyle,https://www.amazon.com/s/ref=lp_602372_nr_n_2?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A14044581&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Health & fitness,https://www.amazon.com/s/ref=lp_602372_nr_n_3?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A637756&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Motherhood,https://www.amazon.com/s/ref=lp_602372_nr_n_4?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A14044561&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Pregnancy & childbirth,https://www.amazon.com/s/ref=lp_602372_nr_n_5?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A254953011&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Self-improvement,https://www.amazon.com/s/ref=lp_602372_nr_n_6?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A14044551&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Dating,https://www.amazon.com/s/ref=lp_602372_nr_n_7?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A14044571&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Magazines,Women in business,https://www.amazon.com/s/ref=lp_602372_nr_n_8?fst=as%3Aoff&rh=n%3A599858%2Cn%3A%21599872%2Cn%3A602372%2Cn%3A14044541&bbn=602372&ie=UTF8&qid=1552637441&rnid=602372
+Textbooks,Accounting,https://www.amazon.com/s/ref=lp_468220_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491564&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Banking,https://www.amazon.com/s/ref=lp_468220_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684243011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Business communication,https://www.amazon.com/s/ref=lp_468220_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491578&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Business development,https://www.amazon.com/s/ref=lp_468220_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684244011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Business ethics,https://www.amazon.com/s/ref=lp_468220_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491580&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Business law,https://www.amazon.com/s/ref=lp_468220_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491506&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Economics,https://www.amazon.com/s/ref=lp_468220_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491584&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Entrepreneurship,https://www.amazon.com/s/ref=lp_468220_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684245011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Finance,https://www.amazon.com/s/ref=lp_468220_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491594&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Human resources,https://www.amazon.com/s/ref=lp_468220_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491602&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,International business,https://www.amazon.com/s/ref=lp_468220_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684246011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Investments & securities,https://www.amazon.com/s/ref=lp_468220_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684247011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Management,https://www.amazon.com/s/ref=lp_468220_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684248011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Marketing,https://www.amazon.com/s/ref=lp_468220_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A491624&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Real estate,https://www.amazon.com/s/ref=lp_468220_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684249011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Sales,https://www.amazon.com/s/ref=lp_468220_nr_n_15?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468220%2Cn%3A684250011&bbn=468220&ie=UTF8&qid=1552637472&rnid=468220
+Textbooks,Communications,https://www.amazon.com/s/ref=lp_468226_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468226%2Cn%3A684251011&bbn=468226&ie=UTF8&qid=1552637547&rnid=468226
+Textbooks,Journalism,https://www.amazon.com/s/ref=lp_468226_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468226%2Cn%3A491558&bbn=468226&ie=UTF8&qid=1552637547&rnid=468226
+Textbooks,Media studies,https://www.amazon.com/s/ref=lp_468226_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468226%2Cn%3A684252011&bbn=468226&ie=UTF8&qid=1552637547&rnid=468226
+Textbooks,Speech,https://www.amazon.com/s/ref=lp_468226_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468226%2Cn%3A491554&bbn=468226&ie=UTF8&qid=1552637547&rnid=468226
+Textbooks,Algorithms,https://www.amazon.com/s/ref=lp_468204_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491298&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Artificial intelligence,https://www.amazon.com/s/ref=lp_468204_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491300&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Database storage & design,https://www.amazon.com/s/ref=lp_468204_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491306&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Graphics & visualization,https://www.amazon.com/s/ref=lp_468204_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491308&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Networking,https://www.amazon.com/s/ref=lp_468204_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491302&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Object-oriented software design,https://www.amazon.com/s/ref=lp_468204_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491310&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Operating systems,https://www.amazon.com/s/ref=lp_468204_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491312&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Programming languages,https://www.amazon.com/s/ref=lp_468204_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491314&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Software design & engineering,https://www.amazon.com/s/ref=lp_468204_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468204%2Cn%3A491316&bbn=468204&ie=UTF8&qid=1552637567&rnid=468204
+Textbooks,Administration,https://www.amazon.com/s/ref=lp_468224_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A491352&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,Counseling,https://www.amazon.com/s/ref=lp_468224_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A684254011&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,Curriculum & instruction,https://www.amazon.com/s/ref=lp_468224_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A491354&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,Educational philosophy,https://www.amazon.com/s/ref=lp_468224_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A684255011&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,Elementary education,https://www.amazon.com/s/ref=lp_468224_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A684256011&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,History & theory,https://www.amazon.com/s/ref=lp_468224_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A491366&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,Secondary education,https://www.amazon.com/s/ref=lp_468224_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A684257011&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,Special education,https://www.amazon.com/s/ref=lp_468224_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468224%2Cn%3A491364&bbn=468224&ie=UTF8&qid=1552637607&rnid=468224
+Textbooks,Aeronautical engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A491336&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Chemical engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A491338&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Civil engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A491340&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Electrical & electronic engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A491342&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Environmental engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A684258011&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Industrial engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A491346&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Mechanical engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A491348&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Nuclear engineering,https://www.amazon.com/s/ref=lp_468212_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468212%2Cn%3A684259011&bbn=468212&ie=UTF8&qid=1552637648&rnid=468212
+Textbooks,Architecture,https://www.amazon.com/s/ref=lp_468206_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A468210&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Art history,https://www.amazon.com/s/ref=lp_468206_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A684260011&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Design,https://www.amazon.com/s/ref=lp_468206_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A491378&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Foreign languages,https://www.amazon.com/s/ref=lp_468206_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A684261011&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,History,https://www.amazon.com/s/ref=lp_468206_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A468230&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Library & information science,https://www.amazon.com/s/ref=lp_468206_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A684271011&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Linguistics,https://www.amazon.com/s/ref=lp_468206_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A491462&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Literature,https://www.amazon.com/s/ref=lp_468206_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A468236&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Performing arts,https://www.amazon.com/s/ref=lp_468206_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A684277011&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Philosophy,https://www.amazon.com/s/ref=lp_468206_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A468232&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Religious studies,https://www.amazon.com/s/ref=lp_468206_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A468234&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Visual arts,https://www.amazon.com/s/ref=lp_468206_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468206%2Cn%3A491374&bbn=468206&ie=UTF8&qid=1552637688&rnid=468206
+Textbooks,Business law,https://www.amazon.com/s/ref=lp_468222_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468222%2Cn%3A491506&bbn=468222&ie=UTF8&qid=1552637739&rnid=468222
+Textbooks,Constitutional law,https://www.amazon.com/s/ref=lp_468222_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468222%2Cn%3A491510&bbn=468222&ie=UTF8&qid=1552637739&rnid=468222
+Textbooks,Criminal law,https://www.amazon.com/s/ref=lp_468222_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468222%2Cn%3A491512&bbn=468222&ie=UTF8&qid=1552637739&rnid=468222
+Textbooks,Legal reference,https://www.amazon.com/s/ref=lp_468222_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468222%2Cn%3A491516&bbn=468222&ie=UTF8&qid=1552637739&rnid=468222
+Textbooks,Tax law,https://www.amazon.com/s/ref=lp_468222_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468222%2Cn%3A491514&bbn=468222&ie=UTF8&qid=1552637739&rnid=468222
+Textbooks,Administration & policy,https://www.amazon.com/s/ref=lp_468228_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689670011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Allied health services,https://www.amazon.com/s/ref=lp_468228_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689671011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Alternative medicine,https://www.amazon.com/s/ref=lp_468228_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689672011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Dentistry,https://www.amazon.com/s/ref=lp_468228_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689673011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Medicine,https://www.amazon.com/s/ref=lp_468228_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689674011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Nursing,https://www.amazon.com/s/ref=lp_468228_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A491540&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Reference,https://www.amazon.com/s/ref=lp_468228_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A491532&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Research,https://www.amazon.com/s/ref=lp_468228_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689819011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Test preparation & review,https://www.amazon.com/s/ref=lp_468228_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689822011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Veterinary medicine,https://www.amazon.com/s/ref=lp_468228_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468228%2Cn%3A689675011&bbn=468228&ie=UTF8&qid=1552637765&rnid=468228
+Textbooks,Atlases,https://www.amazon.com/s/ref=lp_684283011_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A684283011%2Cn%3A684284011&bbn=684283011&ie=UTF8&qid=1552637808&rnid=684283011
+Textbooks,Bibliographies & indexes,https://www.amazon.com/s/ref=lp_684283011_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A684283011%2Cn%3A684285011&bbn=684283011&ie=UTF8&qid=1552637808&rnid=684283011
+Textbooks,Dictionaries,https://www.amazon.com/s/ref=lp_684283011_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A684283011%2Cn%3A684286011&bbn=684283011&ie=UTF8&qid=1552637808&rnid=684283011
+Textbooks,Encyclopedias,https://www.amazon.com/s/ref=lp_684283011_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A684283011%2Cn%3A684287011&bbn=684283011&ie=UTF8&qid=1552637808&rnid=684283011
+Textbooks,Writing skills,https://www.amazon.com/s/ref=lp_684283011_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A684283011%2Cn%3A684288011&bbn=684283011&ie=UTF8&qid=1552637808&rnid=684283011
+Textbooks,Agriculture,https://www.amazon.com/s/ref=lp_468216_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A491690&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Astronomy & astrophysics,https://www.amazon.com/s/ref=lp_468216_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A491700&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Biology & life sciences,https://www.amazon.com/s/ref=lp_468216_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A491702&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Chemistry,https://www.amazon.com/s/ref=lp_468216_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A491718&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Earth sciences,https://www.amazon.com/s/ref=lp_468216_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A491730&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Environmental studies,https://www.amazon.com/s/ref=lp_468216_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A684290011&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Mathematics,https://www.amazon.com/s/ref=lp_468216_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A468218&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Mechanics,https://www.amazon.com/s/ref=lp_468216_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A684291011&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Physics,https://www.amazon.com/s/ref=lp_468216_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468216%2Cn%3A491732&bbn=468216&ie=UTF8&qid=1552637832&rnid=468216
+Textbooks,Anthropology,https://www.amazon.com/s/ref=lp_468214_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468214%2Cn%3A491448&bbn=468214&ie=UTF8&qid=1552637874&rnid=468214
+Textbooks,Archaeology,https://www.amazon.com/s/ref=lp_468214_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468214%2Cn%3A491450&bbn=468214&ie=UTF8&qid=1552637874&rnid=468214
+Textbooks,Criminology,https://www.amazon.com/s/ref=lp_468214_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468214%2Cn%3A491452&bbn=468214&ie=UTF8&qid=1552637874&rnid=468214
+Textbooks,Gay & lesbian studies,https://www.amazon.com/s/ref=lp_468214_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%212349030011%2Cn%3A465600%2Cn%3A468214%2Cn%3A491460&bbn=468214&ie=UTF8&qid=1552637874&rnid=468214

@@ -1,0 +1,50 @@
+# from src import sell4bids
+from rest_framework.decorators import api_view
+
+from src import data_cleaning
+from src import recommend_content as rc
+import pickle
+import json
+from rest_framework.response import Response
+from rest_framework import status
+
+
+
+
+@api_view(['POST'])
+def review_Recommendation(request):
+    if request.method=='POST':
+        print("in if")
+        total_recommendations=set()
+        recommendation_per_item=set()
+        list_pickle_path = './src/recommend_pickle.pkl'
+    # print("req:",request)
+    # request=json.loads(open(request).read())
+        pickle_in = open(list_pickle_path, "rb")
+        similarity_matrix = pickle.load(pickle_in)
+
+        print("title")
+        print(request)
+
+        json_object = request.data
+
+        print(json_object)
+        for product_id in json_object.keys():
+            titles = json_object[product_id]
+            print("product_id", product_id)
+            for title in titles.keys():
+                if title == 'title':
+                    print(titles[title])
+                    title1=titles[title]
+                    print(title1)
+
+
+                recommendation_per_item=rc.recommend(title1,10,similarity_matrix)
+                print(recommendation_per_item)
+            total_recommendations=total_recommendations.union(recommendation_per_item)
+            print(total_recommendations)
+    total_recommendations=list(total_recommendations)
+    total_recommendations=json.dumps(total_recommendations)
+    return Response(total_recommendations, status=status.HTTP_202_ACCEPTED)
+
+

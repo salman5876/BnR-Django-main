@@ -1,0 +1,328 @@
+Prime video,Prime video,https://www.amazon.com/Amazon-Video/s/browse/ref=sd_allcat_aiv/139-7798439-0466736?_encoding=UTF8&node=2858778011
+Prime video,Included with prime,https://www.amazon.com/Prime-Video/s/browse/ref=sd_allcat_aiv_piv/139-7798439-0466736?_encoding=UTF8&node=2676882011
+Prime video,Prime video channels,https://www.amazon.com/s/browse/ref=sd_allcat_nav_sa_aos/139-7798439-0466736?_encoding=UTF8&filterId=OFFER_FILTER%3DSUBSCRIPTIONS&node=2858778011
+Prime video,Rent or buy,https://www.amazon.com/rent-or-buy-amazon-video/b/ref=sd_allcat_aiv_shop/139-7798439-0466736?ie=UTF8&node=7589478011
+Prime video,Your watchlist,https://www.amazon.com/gp/video/watchlist/ref=sd_allcat_aiv_wlst/139-7798439-0466736
+Prime video,Your video library,https://www.amazon.com/gp/video/library/ref=sd_allcat_aiv_yvl/139-7798439-0466736
+Prime video,Watch anywhere,https://www.amazon.com/gp/feature.html/ref=sd_allcat_aiv_wtv/139-7798439-0466736?ie=UTF8&docId=1001423601
+Prime video,Getting started,https://www.amazon.com/gp/video/getstarted/ref=sd_allcat_aiv_gs/139-7798439-0466736
+Prime video,Prime originals,https://www.amazon.com/s/browse/ref=sd_allcat_nav_sa_org/139-7798439-0466736?_encoding=UTF8&merchId=originals1&node=2858778011
+Prime video,Kids,https://www.amazon.com/s/browse/ref=sd_allcat_nav_sa_org/139-7798439-0466736?_encoding=UTF8&merchId=primevideokids&node=2858778011
+Prime video,Coming to prime,https://www.amazon.com/s/browse/ref=sd_allcat_CTPGNO/139-7798439-0466736?_encoding=UTF8&node=16932271011&nodeId=16932271011
+Amazon music,Amazon music unlimited,https://www.amazon.com/gp/dmusic/promotions/AmazonMusicUnlimited/ref=sd_allcat_dm_hf/139-7798439-0466736
+Amazon music,Prime music,https://www.amazon.com/gp/dmusic/promotions/PrimeMusic/ref=sd_allcat_dm_pm/139-7798439-0466736
+Amazon music,Open web player,https://www.amazon.com/gp/dmusic/mp3/player/ref=sd_allcat_dm_webplayer/139-7798439-0466736
+Amazon music,Cds & vinyl,https://www.amazon.com/music-rock-classical-pop-jazz/b/ref=sd_allcat_dm_cds_vinyl/139-7798439-0466736?ie=UTF8&node=5174
+Amazon music,Download store,https://www.amazon.com/MP3-Music-Download/b/ref=sd_allcat_dm_store_hf/139-7798439-0466736?ie=UTF8&node=163856011
+Echo & alexa,Echo,https://www.amazon.com/dp/B06XCM9LJ4/ref=sd_allcat_k_ods_ha_rr/139-7798439-0466736
+Echo & alexa,All-new echo plus,https://www.amazon.com/dp/B07H1QBW2L/ref=sd_allcat_k_ods_ha_lr/139-7798439-0466736
+Echo & alexa,All-new echo dot,https://www.amazon.com/dp/B0792KTHKJ/ref=sd_allcat_ods_ha_echo_dt/139-7798439-0466736
+Echo & alexa,Echo dot kids edition,https://www.amazon.com/dp/B077JFK5YH/ref=sd_allcat_ods_ha_echo_bk_nav/139-7798439-0466736
+Echo & alexa,Echo spot,https://www.amazon.com/dp/B073SQYXTW/ref=sd_allcat_ods_ha_echo_rk/139-7798439-0466736
+Echo & alexa,All-new echo show,https://www.amazon.com/dp/B077SXWSRP/ref=sd_allcat_ods_ha_echo_bs/139-7798439-0466736
+Echo & alexa,Introducing echo auto,https://www.amazon.com/dp/B0753K4CWG/ref=sd_allcat_ods_ha_echo_mf/139-7798439-0466736
+Echo & alexa,See all devices with alexa,https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b/ref=sd_allcat_ods_ha_echo_cp/139-7798439-0466736?ie=UTF8&node=9818047011
+Echo & alexa,Introducing amazon smart plug,https://www.amazon.com/dp/B01MZEEFNX/ref=sd_allcat_ods_ha_aucc_sl/139-7798439-0466736
+Echo & alexa,Introducing amazonbasics microwave,https://www.amazon.com/dp/B07894S727/ref=sd_allcat_ods_ha_aucc_sp/139-7798439-0466736
+Echo & alexa,Home security,https://www.amazon.com/b/ref=sd_allcat_ods_emrg_vicc/139-7798439-0466736?ie=UTF8&node=17386948011
+Echo & alexa,See all smart home devices,https://www.amazon.com/smart-home/b/ref=sd_allcat_ods_ha_echo_ch/139-7798439-0466736?ie=UTF8&node=6563140011
+Echo & alexa,Meet alexa,https://www.amazon.com/meet-alexa/b/ref=sd_allcat_ods_ha_alexa_ug/139-7798439-0466736?ie=UTF8&node=16067214011
+Echo & alexa,Alexa app,https://www.amazon.com/gp/help/customer/display.html/ref=sd_allcat_ods_ha_con_help/139-7798439-0466736?ie=UTF8&nodeId=201602060
+Echo & alexa,Alexa skills,https://www.amazon.com/alexa-skills/b/ref=sd_allcat_ods_ha_con_skills_st/139-7798439-0466736?ie=UTF8&node=13727921011
+Fire tablets,Fire 7,https://www.amazon.com/dp/B01GEW27DA/ref=sd_allcat_k_ods_tab_an/139-7798439-0466736
+Fire tablets,All-new fire hd 8,https://www.amazon.com/dp/B0794RHPZD/ref=sd_allcat_k_ods_tab_kk/139-7798439-0466736
+Fire tablets,Fire hd 10,https://www.amazon.com/dp/B01J6RPGKG/ref=sd_allcat_k_ods_tab_sz/139-7798439-0466736
+Fire tablets,Fire 7 kids edition,https://www.amazon.com/dp/B01J90MSDS/ref=sd_allcat_k_ods_tab_afk/139-7798439-0466736
+Fire tablets,All-new fire hd 8 kids edition,https://www.amazon.com/dp/B078HQBS21/ref=sd_allcat_k_ods_tab_kket/139-7798439-0466736
+Fire tablets,All-new fire hd 10 kids edition,https://www.amazon.com/dp/B079Z8PLYW/ref=sd_allcat_k_ods_tab_sket/139-7798439-0466736
+Fire tablets,Accessories,https://www.amazon.com/Kindle-Accessories-Electronics/b/ref=sd_allcat_ods_tab_acc/139-7798439-0466736?ie=UTF8&node=370783011
+Fire tablets,See all fire tablets,https://www.amazon.com/Amazon-Fire-Tablet-Family/b/ref=sd_allcat_ods_tab_catp/139-7798439-0466736?ie=UTF8&node=6669703011
+Fire tablets,Prime video,https://www.amazon.com/Instant-Video/s/browse/ref=sd_allcat_ods_tab_con_aiv/139-7798439-0466736?_encoding=UTF8&node=2858778011
+Fire tablets,Apps & games,https://www.amazon.com/Fire-Tablet-Apps/b/ref=sd_allcat_ods_tab_con_apps/139-7798439-0466736?ie=UTF8&node=3427287011
+Fire tablets,Digital music,https://www.amazon.com/MP3-Music-Download/b/ref=sd_allcat_ods_tab_con_music/139-7798439-0466736?ie=UTF8&node=163856011
+Fire tablets,Kindle books,https://www.amazon.com/Kindle-eBooks/b/ref=sd_allcat_ods_tab_con_books/139-7798439-0466736?ie=UTF8&node=154606011
+Fire tablets,Kindle unlimited,https://www.amazon.com/gp/kindle/ku/sign-up/ui/rw/about/ref=sd_allcat_ods_tab_con_ku/139-7798439-0466736
+Fire tablets,Amazon freetime unlimited,https://www.amazon.com/dp/B01I499BNA/ref=sd_allcat_ods_tab_gno_ftu/139-7798439-0466736
+Fire tablets,Newsstand,https://www.amazon.com/gp/digital/fiona/redirect/newsstand/home/ref=sd_allcat_ods_tab_con_news/139-7798439-0466736
+Fire tablets,Manage your content and devices,https://www.amazon.com/gp/digital/fiona/manage/ref=sd_allcat_ods_tab_con_myf/139-7798439-0466736
+Fire tv,Introducing fire tv stick 4k,https://www.amazon.com/dp/B079QHML21/ref=sd_allcat_ods_smp_mt_nav/139-7798439-0466736
+Fire tv,Fire tv stick,https://www.amazon.com/dp/B00ZV9RDKK/ref=sd_allcat_k_ods_smp_tk/139-7798439-0466736
+Fire tv,Fire tv cube,https://www.amazon.com/dp/B0791T9CV7/ref=sd_allcat_ods_smp_skl_nav/139-7798439-0466736
+Fire tv,Introducing fire tv recast,https://www.amazon.com/dp/B01J6A6H74/ref=sd_allcat_k_ods_smp_fk/139-7798439-0466736
+Fire tv,See fire tv family,https://www.amazon.com/amazon-devices/b/ref=sd_allcat_ods_smp_catp/139-7798439-0466736?ie=UTF8&node=8521791011
+Fire tv,Prime video - included with prime,https://www.amazon.com/Prime-Instant-Video/s/browse/ref=sd_allcat_ods_tv_con_piv/139-7798439-0466736?_encoding=UTF8&node=2676882011
+Fire tv,Fire tv apps & channels,https://www.amazon.com/Fire-TV-Apps-All-Models/b/ref=sd_allcat_ods_tv_apps_chan/139-7798439-0466736?ie=UTF8&node=10208590011
+Fire tv,Games for fire tv,https://www.amazon.com/Fire-TV-Apps-Previous-Generation/b/ref=sd_allcat_ods_tv_con_gaming/139-7798439-0466736?ie=UTF8&node=7031433011
+Fire tv,Amazon photos,https://www.amazon.com/clouddrive/home/ref=sd_allcat_ods_tv_con_cd/139-7798439-0466736
+Kindle e-readers & books,Kindle,https://www.amazon.com/dp/B00ZV9PXP2/ref=sd_allcat_k_ods_eink_bn/139-7798439-0466736
+Kindle e-readers & books,All-new kindle paperwhite,https://www.amazon.com/dp/B07CXG6C9W/ref=sd_allcat_k_ods_eink_sd_me/139-7798439-0466736
+Kindle e-readers & books,Kindle oasis,https://www.amazon.com/dp/B06XD5YCKX/ref=sd_allcat_k_ods_eink_wy/139-7798439-0466736
+Kindle e-readers & books,Kindle for kids bundle,https://www.amazon.com/dp/B01KMSKNGU/ref=sd_allcat_k_ods_eink_keb/139-7798439-0466736
+Kindle e-readers & books,Accessories,https://www.amazon.com/Kindle-Accessories-Electronics/b/ref=sd_allcat_ods_eink_acc/139-7798439-0466736?ie=UTF8&node=370783011
+Kindle e-readers & books,See all kindle e-readers,https://www.amazon.com/Amazon-Kindle-Ereader-Family/b/ref=sd_allcat_ods_eink_catp/139-7798439-0466736?ie=UTF8&node=6669702011
+Kindle e-readers & books,Kindle books,https://www.amazon.com/Kindle-eBooks/b/ref=sd_allcat_ods_eink_con_books/139-7798439-0466736?ie=UTF8&node=1286228011
+Kindle e-readers & books,Newsstand,https://www.amazon.com/Magazines-Journals-Kindle/b/ref=sd_allcat_ods_eink_con_news/139-7798439-0466736?ie=UTF8&node=241646011
+Kindle e-readers & books,Kindle unlimited,https://www.amazon.com/gp/kindle/ku/sign-up/ui/rw/about/ref=sd_allcat_ods_eink_con_ku/139-7798439-0466736
+Kindle e-readers & books,Prime reading,https://www.amazon.com/kindle-dbs/fd/prime-pr/ref=sd_allcat_ods_eink_con_pr/139-7798439-0466736
+Kindle e-readers & books,Free kindle reading apps,https://www.amazon.com/gp/feature.html/ref=sd_allcat_ods_eink_con_karl/139-7798439-0466736?ie=UTF8&docId=1000493771
+Kindle e-readers & books,Kindle cloud reader,https://www.amazon.com:443/gp/redirect.html/ref=sd_allcat_ods_eink_con_kcr/139-7798439-0466736?location=https://read.amazon.com/&token=4A20D4CA0ECAC5525B84547087B2D7AB202FF134&source=standards
+Kindle e-readers & books,Manage your content and devices,https://www.amazon.com/gp/digital/fiona/manage/ref=sd_allcat_ods_eink_con_myk/139-7798439-0466736
+Appstore for android,All apps and games,https://www.amazon.com/mobile-apps/b/ref=sd_allcat_adr_app/139-7798439-0466736?ie=UTF8&node=2350149011
+Appstore for android,Games,https://www.amazon.com/Games/b/ref=sd_allcat_adr_gam/139-7798439-0466736?ie=UTF8&node=9209902011
+Appstore for android,Amazon coins,https://www.amazon.com/coins/ref=sd_allcat_adr_coins/139-7798439-0466736
+Appstore for android,Download amazon appstore,https://www.amazon.com/gp/feature.html/ref=sd_allcat_adr_dl/139-7798439-0466736?ie=UTF8&docId=1003016361
+Appstore for android,Amazon apps,https://www.amazon.com/gp/feature.html/ref=sd_allcat_adr_amz/139-7798439-0466736?ie=UTF8&docId=1000645111
+Appstore for android,Your apps and subscriptions,https://www.amazon.com/gp/mas/your-account/myapps/ref=sd_allcat_adr_yad/139-7798439-0466736
+Books & audible,Books,https://www.amazon.com/books-used-books-textbooks/b/ref=sd_allcat_bo_t1/139-7798439-0466736?ie=UTF8&node=283155
+Books & audible,Children's books,https://www.amazon.com/Childrens-Books/b/ref=sd_allcat_cbo_t1/139-7798439-0466736?ie=UTF8&node=4
+Books & audible,Abebooks.com,https://www.amazon.com/Rare-Collectible-Books-Books/b/ref=sd_allcat_abebooks_t1/139-7798439-0466736?ie=UTF8&node=2056775011
+Books & audible,Comics & graphic novels,https://www.amazon.com/Comics-Graphic-Novels-Kindle-eBooks/b/ref=sd_allcat_comicsgraphic/139-7798439-0466736?ie=UTF8&node=156104011
+Books & audible,Magazines,https://www.amazon.com/magazines/b/ref=sd_allcat_magazines_t1/139-7798439-0466736?ie=UTF8&node=599858
+Books & audible,Textbooks,https://www.amazon.com/New-Used-Textbooks-Books/b/ref=sd_allcat_tb_t1/139-7798439-0466736?ie=UTF8&node=465600
+Books & audible,Textbook rentals,https://www.amazon.com/Rent-Textbooks/b/ref=sd_allcat_rentals_t1/139-7798439-0466736?ie=UTF8&node=5657188011
+Books & audible,Sell us your books,https://www.amazon.com/Sell-Books/b/ref=sd_allcat_us_ti_tb_0513_t1/139-7798439-0466736?ie=UTF8&node=2205237011
+Books & audible,Prime student,https://www.amazon.com/Amazon-Student/b/ref=sd_allcat_student_t1/139-7798439-0466736?ie=UTF8&node=668781011
+Books & audible,Kindle books,https://www.amazon.com/Kindle-eBooks/b/ref=sd_allcat_k_kbo_t1/139-7798439-0466736?ie=UTF8&node=1286228011
+Books & audible,Kindle unlimited,https://www.amazon.com/gp/kindle/ku/sign-up/ui/rw/about/ref=sd_allcat_ods_books_con_ku_t1/139-7798439-0466736
+Books & audible,Prime reading,https://www.amazon.com/kindle-dbs/fd/prime-pr/ref=sd_allcat_ods_eink_con_pr_t1/139-7798439-0466736
+Books & audible,Whispersync for voice,https://www.amazon.com/b/ref=sd_allcat_aud_wfv_t1/139-7798439-0466736?ie=UTF8&node=5744819011
+Books & audible,Audible membership,https://www.amazon.com/dp/B00NB86OYE/ref=sd_allcat_aud_mem_t3/139-7798439-0466736
+Books & audible,Audible audiobooks,https://www.amazon.com/Audible-Audiobooks/b/ref=sd_allcat_aud_bks_t3/139-7798439-0466736?ie=UTF8&node=2402172011
+Movies, music & games,Movies & tv,https://www.amazon.com/movies-tv-dvd-bluray/b/ref=sd_allcat_mov/139-7798439-0466736?ie=UTF8&node=2625373011
+Movies, music & games,Blu-ray,https://www.amazon.com/movies-tv-bluray-bluray3d/b/ref=sd_allcat_blu/139-7798439-0466736?ie=UTF8&node=2901953011
+Movies, music & games,Prime video - included with prime,https://www.amazon.com/Amazon-Video/b/ref=sd_allcat_atv/139-7798439-0466736?ie=UTF8&node=2858778011
+Movies, music & games,Video shorts,https://www.amazon.com/Video-Shorts/b/ref=sd_allcat_video_shorts/139-7798439-0466736?ie=UTF8&node=9013971011
+Movies, music & games,Cds & vinyl,https://www.amazon.com/music-rock-classical-pop-jazz/b/ref=sd_allcat_cd_vinyl/139-7798439-0466736?ie=UTF8&node=5174
+Movies, music & games,Digital music,https://www.amazon.com/MP3-Music-Download/b/ref=sd_allcat_dmusic/139-7798439-0466736?ie=UTF8&node=163856011
+Movies, music & games,Musical instruments,https://www.amazon.com/musical-instruments-accessories-sound-recording/b/ref=sd_allcat_mi/139-7798439-0466736?ie=UTF8&node=11091801
+Movies, music & games,Headphones,https://www.amazon.com/Headphones-Accessories-Supplies/b/ref=sd_allcat_headphones/139-7798439-0466736?ie=UTF8&node=172541
+Movies, music & games,Video games,https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=sd_allcat_cvg/139-7798439-0466736?ie=UTF8&node=468642
+Movies, music & games,Pc gaming,https://www.amazon.com/PC-Gaming/b/ref=sd_allcat_pcgaming41516/139-7798439-0466736?ie=UTF8&node=8588809011
+Movies, music & games,Digital games,https://www.amazon.com/Game-Downloads/b/ref=sd_allcat_gdown/139-7798439-0466736?ie=UTF8&node=979455011
+Movies, music & games,Entertainment collectibles,https://www.amazon.com/Entertainment-Collectibles/b/ref=sd_allcat_entcol/139-7798439-0466736?ie=UTF8&node=5088769011
+Movies, music & games,Trade in video games,https://www.amazon.com/Trade-In/b/ref=sd_allcat_trade_in_mmg/139-7798439-0466736?ie=UTF8&node=2242532011
+Electronics, computers & office,Tv & video,https://www.amazon.com/Televisions-Video/b/ref=sd_allcat_tv/139-7798439-0466736?ie=UTF8&node=1266092011
+Electronics, computers & office,Home audio & theater,https://www.amazon.com/Home-Audio-Electronics/b/ref=sd_allcat_hat/139-7798439-0466736?ie=UTF8&node=667846011
+Electronics, computers & office,Camera, photo & video,https://www.amazon.com/Camera-Photo-Film-Canon-Sony/b/ref=sd_allcat_p/139-7798439-0466736?ie=UTF8&node=502394
+Electronics, computers & office,Cell phones & accessories,https://www.amazon.com/cell-phones-service-plans-accessories/b/ref=sd_allcat_wi/139-7798439-0466736?ie=UTF8&node=2335752011
+Electronics, computers & office,Headphones,https://www.amazon.com/Headphones-Accessories-Supplies/b/ref=sd_allcat_headphones/139-7798439-0466736?ie=UTF8&node=172541
+Electronics, computers & office,Video games,https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=sd_allcat_cvg_ce/139-7798439-0466736?ie=UTF8&node=468642
+Electronics, computers & office,Bluetooth & wireless speakers,https://www.amazon.com/Multiroom-Digital-Music-Systems/b/ref=sd_allcat_bluetoothwireless/139-7798439-0466736?ie=UTF8&node=322215011
+Electronics, computers & office,Car electronics,https://www.amazon.com/Car-Electronics/b/ref=sd_allcat_gps_ce/139-7798439-0466736?ie=UTF8&node=1077068
+Electronics, computers & office,Musical instruments,https://www.amazon.com/musical-instruments-accessories-sound-recording/b/ref=sd_allcat_mi_ce/139-7798439-0466736?ie=UTF8&node=11091801
+Electronics, computers & office,Wearable technology,https://www.amazon.com/b/ref=sd_allcat_wear_tech/139-7798439-0466736?ie=UTF8&node=9013937011
+Electronics, computers & office,Electronics,https://www.amazon.com/electronics-store/b/ref=sd_allcat_elec_hub/139-7798439-0466736?ie=UTF8&node=172282
+Electronics, computers & office,Bargain finds,https://www.amazon.com/Low-Price-With-Free-Shipping/bbp/ref=sd_allcat_bbp_bb_a77114_in_sd_w_ur/139-7798439-0466736?_encoding=UTF8&category=%2Felectronics
+Electronics, computers & office,Amazon renewed,https://www.amazon.com/b/ref=sd_allcat_nav_cerenewed/139-7798439-0466736?ie=UTF8&node=17881058011
+Electronics, computers & office,Computers, tablets, & pc products,https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=sd_allcat_basedevices/139-7798439-0466736?ie=UTF8&node=541966
+Electronics, computers & office,Monitors,https://www.amazon.com/Monitors-Computers-Accessories/b/ref=sd_allcat_monitors/139-7798439-0466736?ie=UTF8&node=1292115011
+Electronics, computers & office,Accessories,https://www.amazon.com/Computer-Accessories-Supplies/b/ref=sd_allcat_compaccess/139-7798439-0466736?ie=UTF8&node=172456
+Electronics, computers & office,Networking,https://www.amazon.com/Networking-Computer-Add-Ons-Computers/b/ref=sd_allcat_networking/139-7798439-0466736?ie=UTF8&node=172504
+Electronics, computers & office,Drives & storage,https://www.amazon.com/Hard-Drives-Storage/b/ref=sd_allcat_storage/139-7798439-0466736?ie=UTF8&node=2248325011
+Electronics, computers & office,Computer parts & components,https://www.amazon.com/PC-Parts-Components/b/ref=sd_allcat_components/139-7798439-0466736?ie=UTF8&node=193870011
+Electronics, computers & office,Software,https://www.amazon.com/design-download-business-education-software/b/ref=sd_allcat_sw/139-7798439-0466736?ie=UTF8&node=229534
+Electronics, computers & office,Printers & ink,https://www.amazon.com/Printers-Office-Electronics/b/ref=sd_allcat_printers/139-7798439-0466736?ie=UTF8&node=172635
+Electronics, computers & office,Office & school supplies,https://www.amazon.com/office-products-supplies-electronics-furniture/b/ref=sd_allcat_op/139-7798439-0466736?ie=UTF8&node=1064954
+Electronics, computers & office,Trade in your electronics,https://www.amazon.com/Electronics-Trade-In/b/ref=sd_allcat_trade_in_elec/139-7798439-0466736?ie=UTF8&node=2226766011
+Alexa smart home,Lighting,https://www.amazon.com/lighting-fans-works-with-alexa/b/ref=sd_allcat_sbdshd_lighting/139-7798439-0466736?ie=UTF8&node=13575748011
+Alexa smart home,Plugs,https://www.amazon.com/outlets-works-with-alexa/b/ref=sd_allcat_sbdshd_plugs/139-7798439-0466736?ie=UTF8&node=13575750011
+Alexa smart home,Cameras,https://www.amazon.com/cameras-works-with-alexa/b/ref=sd_allcat_sbdshd_cameras/139-7798439-0466736?ie=UTF8&node=16713337011
+Alexa smart home,Door locks,https://www.amazon.com/door-locks-works-with-alexa/b/ref=sd_allcat_sbdshd_door_locks/139-7798439-0466736?ie=UTF8&node=16334612011
+Alexa smart home,Thermostats,https://www.amazon.com/thermostats-works-with-alexa/b/ref=sd_allcat_sbdshd_thermostats/139-7798439-0466736?ie=UTF8&node=13575749011
+Alexa smart home,Tv & video,https://www.amazon.com/home-entertainment-works-with-alexa/b/ref=sd_allcat_sbdshd_tv_video/139-7798439-0466736?ie=UTF8&node=16713338011
+Alexa smart home,Audio & home theater,https://www.amazon.com/b/ref=sd_allcat_sbdshd_aht/139-7798439-0466736?ie=UTF8&node=17284462011
+Alexa smart home,Vacuums,https://www.amazon.com/b/ref=sd_allcat_sbdshd_vac/139-7798439-0466736?ie=UTF8&node=17934444011
+Alexa smart home,Voice assistants,https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b/ref=sd_allcat_sbdshd_v_a/139-7798439-0466736?ie=UTF8&node=9818047011
+Alexa smart home,Other smart solutions,https://www.amazon.com/additional-solutions-works-with-alexa/b/ref=sd_allcat_sbdshd_o_s/139-7798439-0466736?ie=UTF8&node=16334613011
+Home, garden & tools,Amazon home,https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=sd_allcat_home_storefront/139-7798439-0466736?ie=UTF8&node=1055398
+Home, garden & tools,Shop by room,https://www.amazon.com/Shop-by-Room/b/ref=sd_allcat_home_shopbyroom/139-7798439-0466736?ie=UTF8&node=14544458011
+Home, garden & tools,Scout | style explorer,https://www.amazon.com/scout?ref_=nav_shopall_home_sbl
+Home, garden & tools,Furniture,https://www.amazon.com/Furniture/b/ref=sd_allcat_furn/139-7798439-0466736?ie=UTF8&node=1063306
+Home, garden & tools,Kitchen & dining,https://www.amazon.com/kitchen-dining/b/ref=sd_allcat_ki/139-7798439-0466736?ie=UTF8&node=284507
+Home, garden & tools,Bed & bath,https://www.amazon.com/bedding-bath-sheets-towels/b/ref=sd_allcat_bb/139-7798439-0466736?ie=UTF8&node=1057792
+Home, garden & tools,Garden & outdoor,https://www.amazon.com/Patio-Lawn-Garden/b/ref=sd_allcat_lp/139-7798439-0466736?ie=UTF8&node=2972638011
+Home, garden & tools,Mattresses,https://www.amazon.com/Mattresses-Box-Springs/b/ref=sd_allcat_home_mattresses/139-7798439-0466736?ie=UTF8&node=3732961
+Home, garden & tools,Lighting,https://www.amazon.com/Lighting-and-Ceiling-Fans/b/ref=sd_allcat_home_lighting/139-7798439-0466736?ie=UTF8&node=495224
+Home, garden & tools,Storage & organization,https://www.amazon.com/storage-organization/b/ref=sd_allcat_home_storageandorg/139-7798439-0466736?ie=UTF8&node=3610841
+Home, garden & tools,Appliances,https://www.amazon.com/Appliances/b/ref=sd_allcat_ha/139-7798439-0466736?ie=UTF8&node=2619525011
+Home, garden & tools,Fine art,https://www.amazon.com/Art/b/ref=sd_allcat_fine_art/139-7798439-0466736?ie=UTF8&node=6685269011
+Home, garden & tools,Collectibles & fine art,https://www.amazon.com/Collectibles/b/ref=sd_allcat_collectibles_fine_art/139-7798439-0466736?ie=UTF8&node=4991425011
+Home, garden & tools,Arts, crafts & sewing,https://www.amazon.com/Arts-Crafts-Sewing/b/ref=sd_allcat_sch/139-7798439-0466736?ie=UTF8&node=2617941011
+Home, garden & tools,Pet supplies,https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/ref=sd_allcat_ps/139-7798439-0466736?ie=UTF8&node=2619533011
+Home, garden & tools,Event & party supplies,https://www.amazon.com/Event-Party-Supplies/b/ref=sd_allcat_ep/139-7798439-0466736?ie=UTF8&node=901590
+Home, garden & tools,Home improvement,https://www.amazon.com/Tools-and-Home-Improvement/b/ref=sd_allcat_hi2/139-7798439-0466736?ie=UTF8&node=228013
+Home, garden & tools,Power & hand tools,https://www.amazon.com/Power-Tools-and-Hand-Tools/b/ref=sd_allcat_hi/139-7798439-0466736?ie=UTF8&node=328182011
+Home, garden & tools,Lamps & light fixtures,https://www.amazon.com/Lighting-and-Ceiling-Fans/b/ref=sd_allcat_llf/139-7798439-0466736?ie=UTF8&node=495224
+Home, garden & tools,Kitchen & bath fixtures,https://www.amazon.com/Kitchen-and-Bath-Fixtures/b/ref=sd_allcat_kbf/139-7798439-0466736?ie=UTF8&node=3754161
+Home, garden & tools,Cookware,https://www.amazon.com/cookware/b/ref=sd_allcat_cookware/139-7798439-0466736?ie=UTF8&node=289814
+Home, garden & tools,Hardware,https://www.amazon.com/Hardware-Locks-and-Fasteners/b/ref=sd_allcat_hdw/139-7798439-0466736?ie=UTF8&node=511228
+Home, garden & tools,Smart home,https://www.amazon.com/smart-home/b/ref=sd_allcat_homaut/139-7798439-0466736?ie=UTF8&node=6563140011
+Home, garden & tools,Bargain finds,https://www.amazon.com/Low-Price-With-Free-Shipping/bbp/ref=sd_allcat_bbp_bb_01a411_in_sd_w_ur/139-7798439-0466736?_encoding=UTF8&category=%2Fhome-decor
+Home, garden & tools,Pinzon by amazon,https://www.amazon.com/b/ref=sd_allcat_home_pinzon/139-7798439-0466736?ie=UTF8&node=10112676011
+Home, garden & tools,Rivet by amazon,https://www.amazon.com/b/ref=sd_allcat_home_rivet/139-7798439-0466736?ie=UTF8&node=7633572011
+Home, garden & tools,Stone & beam by amazon,https://www.amazon.com/b/ref=sd_allcat_home_stoneandbeam/139-7798439-0466736?ie=UTF8&node=17384727011
+Home, garden & tools,Amazon launchpad,https://www.amazon.com/Amazon-Launchpad/b/ref=sd_allcat_home_launchpad/139-7798439-0466736?ie=UTF8&node=12034488011
+Home, garden & tools,Wedding registry,https://www.amazon.com/gp/wedding/homepage/ref=sd_allcat_home_weddingregistry/139-7798439-0466736
+Home, garden & tools,Amazon move,https://www.amazon.com/move/ref=sd_allcat_home_amazonmove/139-7798439-0466736
+Pet supplies,Pet profile,https://www.amazon.com/yourpets/ref=sd_allcat_directory_pet_profiles/139-7798439-0466736
+Pet supplies,Dog supplies,https://www.amazon.com/dogs-supplies-training-beds-collars-grooming/b/ref=sd_allcat_sd_dg/139-7798439-0466736?ie=UTF8&node=2975312011
+Pet supplies,Dog food,https://www.amazon.com/dogs-food-wellness-grain-free/b/ref=sd_allcat_sd_df/139-7798439-0466736?ie=UTF8&node=2975359011
+Pet supplies,Cat supplies,https://www.amazon.com/cats-supplies-kittens-catnip-tree-litter/b/ref=sd_allcat_sd_ct/139-7798439-0466736?ie=UTF8&node=2975241011
+Pet supplies,Cat food,https://www.amazon.com/cat-kittens-food-grain-free/b/ref=sd_allcat_sd_ctfd/139-7798439-0466736?ie=UTF8&node=2975265011
+Pet supplies,Fish & aquatic pets,https://www.amazon.com/fish-supplies-betta-bowl-aquariums-tank/b/ref=sd_allcat_sd_fish/139-7798439-0466736?ie=UTF8&node=2975446011
+Pet supplies,Small animals,https://www.amazon.com/small-animal-supplies-ferrets-hamsters/b/ref=sd_allcat_sd_sa/139-7798439-0466736?ie=UTF8&node=2975520011
+Pet supplies,Birds,https://www.amazon.com/bird-supplies-parrot-cages-toys-feeders/b/ref=sd_allcat_sd_bird/139-7798439-0466736?ie=UTF8&node=2975221011
+Pet supplies,Amazon dash button,https://www.amazon.com/Pet-Dash-Buttons/b/ref=sd_allcat_sa_pets_db/139-7798439-0466736?ie=UTF8&node=12007651011
+Food & grocery,See all restaurants,https://www.amazon.com/restaurants?ref_=nav_shopall_amzrst_all_topnav
+Food & grocery,Popular restaurants,https://www.amazon.com/restaurants/m/popular-restaurants?ref_=nav_shopall_amzrst_popular_topnav
+Food & grocery,Grocery & gourmet food,https://www.amazon.com/grocery-breakfast-foods-snacks-organic/b/ref=sd_allcat_gro/139-7798439-0466736?ie=UTF8&node=16310101
+Food & grocery,Amazonfresh,https://www.amazon.com/AmazonFresh/b/ref=sd_allcat_fresh/139-7798439-0466736?ie=UTF8&node=10329849011
+Food & grocery,Prime pantry,https://www.amazon.com/Prime-Pantry/b/ref=sd_allcat_prime_pantry/139-7798439-0466736?ie=UTF8&node=7301146011
+Food & grocery,Amazon launchpad food,https://www.amazon.com/b/ref=sd_allcat_lpd_gno_csmbl/139-7798439-0466736?ie=UTF8&node=12034492011
+Food & grocery,Subscribe & save,https://www.amazon.com/Subscribe-Save/b/ref=sd_allcat_subscribe_save/139-7798439-0466736?ie=UTF8&node=5856181011
+Food & grocery,Wickedly prime,https://www.amazon.com/Wickedly-Prime/b/ref=sd_allcat_wickedlyprime/139-7798439-0466736?ie=UTF8&node=13854994011
+Beauty & health,All beauty,https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=sd_allcat_bty/139-7798439-0466736?ie=UTF8&node=3760911
+Beauty & health,Luxury beauty,https://www.amazon.com/Luxury-Makeup-Skin-Hair-Beauty-Products/b/ref=sd_allcat_luxury_bty/139-7798439-0466736?ie=UTF8&node=7175545011
+Beauty & health,Professional skin care,https://www.amazon.com/b/ref=sd_allcat_pro_skin/139-7798439-0466736?ie=UTF8&node=14717647011
+Beauty & health,Salon & spa,https://www.amazon.com/b/ref=sd_allcat_salon_spa/139-7798439-0466736?ie=UTF8&node=14760453011
+Beauty & health,Health, household & baby care,https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=sd_allcat_health_household_baby/139-7798439-0466736?ie=UTF8&node=3760901
+Beauty & health,Vitamins & dietary supplements,https://www.amazon.com/Vitamins-and-Dietary-Supplements/b/ref=sd_allcat_vds/139-7798439-0466736?ie=UTF8&node=3764441
+Beauty & health,Subscribe & save,https://www.amazon.com/Subscribe-Save/b/ref=sd_allcat_subscribe_save/139-7798439-0466736?ie=UTF8&node=5856181011
+Beauty & health,Prime pantry,https://www.amazon.com/Prime-Pantry/b/ref=sd_allcat_prime_pantry/139-7798439-0466736?ie=UTF8&node=7301146011
+Beauty & health,Sample boxes,https://www.amazon.com/sample-boxes/ref=sd_allcat_sampling/139-7798439-0466736
+Beauty & health,Coupons,https://www.amazon.com/Coupons/b/ref=sd_allcat_coupons/139-7798439-0466736?ie=UTF8&node=2231352011
+Beauty & health,Amazon dash button,https://www.amazon.com/b/ref=sd_allcat_sa_btyhpc_db/139-7798439-0466736?ie=UTF8&node=16143060011
+Beauty & health,Amazon elements,https://www.amazon.com/Amazon-Elements/b/ref=sd_allcat_elements/139-7798439-0466736?ie=UTF8&node=8514636011
+Beauty & health,All health & household,https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=sd_allcat_H_HH_T2/139-7798439-0466736?ie=UTF8&node=3760901
+Beauty & health,Vitamins & dietary supplements,https://www.amazon.com/Vitamins-and-Dietary-Supplements/b/ref=sd_allcat_VDS_T2/139-7798439-0466736?ie=UTF8&node=3764441
+Beauty & health,Household supplies,https://www.amazon.com/Household-Supplies-Products/b/ref=sd_allcat_HH_T2/139-7798439-0466736?ie=UTF8&node=15342811
+Beauty & health,Health care,https://www.amazon.com/Health-Care-Products-Personal/b/ref=sd_allcat_HC_T2/139-7798439-0466736?ie=UTF8&node=3760941
+Beauty & health,Sports nutrition,https://www.amazon.com/Sports-Nutrition/b/ref=sd_allcat_SN_T2/139-7798439-0466736?ie=UTF8&node=6973663011
+Beauty & health,Baby & child care,https://www.amazon.com/Baby-Child-Care-Products/b/ref=sd_allcat_BC_T2/139-7798439-0466736?ie=UTF8&node=10787321
+Beauty & health,Medical supplies & equipment,https://www.amazon.com/Medical-Supplies-Equipment-Health-Care/b/ref=sd_allcat_MSE_T2/139-7798439-0466736?ie=UTF8&node=3775161
+Beauty & health,Health & wellness,https://www.amazon.com/Wellness-Relaxation-Products/b/ref=sd_allcat_HW_T2/139-7798439-0466736?ie=UTF8&node=10079996011
+Toys, kids & baby,Toys & games,https://www.amazon.com/toys/b/ref=sd_allcat_tg/139-7798439-0466736?ie=UTF8&node=165793011
+Toys, kids & baby,Baby,https://www.amazon.com/baby-car-seats-strollers-bedding/b/ref=sd_allcat_ba/139-7798439-0466736?ie=UTF8&node=165796011
+Toys, kids & baby,Diapering,https://www.amazon.com/baby-diapering-diaper-bag-wipes-liner/b/ref=sd_allcat_baby_diapers/139-7798439-0466736?ie=UTF8&node=166764011
+Toys, kids & baby,Video games for kids,https://www.amazon.com/Kids-Family/b/ref=sd_allcat_cvg/139-7798439-0466736?ie=UTF8&node=471306
+Toys, kids & baby,Amazon family,https://www.amazon.com/gp/family/signup/ref=sd_allcat_family/139-7798439-0466736
+Toys, kids & baby,Amazon teen,https://www.amazon.com/cr/forteens/ref=sd_allcat/139-7798439-0466736?_encoding=UTF8&ref_=TDEP
+Toys, kids & baby,Baby registry,https://www.amazon.com/baby-reg/homepage/ref=sd_allcat_babyreg/139-7798439-0466736
+Toys, kids & baby,Kids birthdays,https://www.amazon.com/Kids-Birthday-Toys-Games/b/ref=sd_allcat_kidsbirthdaynew/139-7798439-0466736?ie=UTF8&node=12693418011
+Toys, kids & baby,Amazon launchpad,https://www.amazon.com/b/ref=sd_allcat_lpd_gno_toys/139-7798439-0466736?ie=UTF8&node=12034506011
+Toys, kids & baby,Amazon elements,https://www.amazon.com/Amazon-Elements/b/ref=sd_allcat_elements_baby/139-7798439-0466736?ie=UTF8&node=8514636011
+Toys, kids & baby,Amazon dash button,https://www.amazon.com/Baby-Dash-Buttons/b/ref=sd_allcat_sa_baby_db/139-7798439-0466736?ie=UTF8&node=12007650011
+Toys, kids & baby,For girls,https://www.amazon.com/Girls-Fashion/b/ref=sd_allcat_toys_girls/139-7798439-0466736?ie=UTF8&node=7147442011
+Toys, kids & baby,For boys,https://www.amazon.com/Boys-Fashion/b/ref=sd_allcat_toys_boys/139-7798439-0466736?ie=UTF8&node=7147443011
+Toys, kids & baby,For baby,https://www.amazon.com/Baby-Clothing-Shoes/b/ref=sd_allcat_toys_baby/139-7798439-0466736?ie=UTF8&node=7147444011
+Toys, kids & baby,For teens,https://www.amazon.com/teenshop/ref=sd_allcat/139-7798439-0466736?_encoding=UTF8&ref_=TDEP
+Clothing, shoes, jewelry & watches,Amazon fashion,https://www.amazon.com/amazon-fashion/b/ref=sd_allcat_sft/139-7798439-0466736?ie=UTF8&node=7141123011
+Clothing, shoes, jewelry & watches,Women,https://www.amazon.com/Womens-Fashion/b/ref=sd_allcat_sft_women/139-7798439-0466736?ie=UTF8&node=7147440011
+Clothing, shoes, jewelry & watches,Men,https://www.amazon.com/Mens-Fashion/b/ref=sd_allcat_sft_men/139-7798439-0466736?ie=UTF8&node=7147441011
+Clothing, shoes, jewelry & watches,Girls,https://www.amazon.com/Girls-Fashion/b/ref=sd_allcat_sft_girls/139-7798439-0466736?ie=UTF8&node=7147442011
+Clothing, shoes, jewelry & watches,Boys,https://www.amazon.com/Boys-Fashion/b/ref=sd_allcat_sft_boys/139-7798439-0466736?ie=UTF8&node=7147443011
+Clothing, shoes, jewelry & watches,Baby,https://www.amazon.com/Baby-Clothing-Shoes/b/ref=sd_allcat_sft_baby/139-7798439-0466736?ie=UTF8&node=7147444011
+Clothing, shoes, jewelry & watches,Luggage,https://www.amazon.com/Luggage-Travel-Gear/b/ref=sd_allcat_sft_luggage/139-7798439-0466736?ie=UTF8&node=9479199011
+Clothing, shoes, jewelry & watches,Prime wardrobe,https://www.amazon.com/prime-wardrobe/b/ref=sd_allcat_tbyb_site_directory_tbyb_l0/139-7798439-0466736?ie=UTF8&node=14807110011
+Clothing, shoes, jewelry & watches,Sales & deals,https://www.amazon.com/fashion-sales-and-deals/b/ref=sd_allcat_sft_sales/139-7798439-0466736?ie=UTF8&node=9538491011
+Clothing, shoes, jewelry & watches,Our brands,https://www.amazon.com/b/ref=sd_allcat_OurBrands/139-7798439-0466736?ie=UTF8&node=16334314011
+Clothing, shoes, jewelry & watches,The shop by shopbop,https://www.amazon.com/stores/page/135F2992-CF34-468F-B67F-101F73A197E3/ref=sd_allcat_shopbop/139-7798439-0466736
+Handmade,All handmade,https://www.amazon.com/Handmade/b/ref=sd_allcat_HM_Home/139-7798439-0466736?ie=UTF8&node=11260432011
+Handmade,Gifts,https://www.amazon.com/b/ref=sd_allcat_HM_gifts/139-7798439-0466736?ie=UTF8&node=17296384011
+Handmade,Jewelry,https://www.amazon.com/Handmade-Jewelry/b/ref=sd_allcat_HM_Jewelry/139-7798439-0466736?ie=UTF8&node=11403480011
+Handmade,Home & kitchen,https://www.amazon.com/Handmade-Home-Kitchen-Products/b/ref=sd_allcat_HM_kitchen/139-7798439-0466736?ie=UTF8&node=11403478011
+Handmade,Wedding,https://www.amazon.com/b/ref=sd_allcat_HM_wedding/139-7798439-0466736?ie=UTF8&node=14303223011
+Handmade,Clothing & shoes,https://www.amazon.com/b/ref=sd_allcat_HM_clothingShoes/139-7798439-0466736?ie=UTF8&node=17373067011
+Handmade,Handbags & accessories,https://www.amazon.com/Handmade-Handbags-Fashion-Accessories/b/ref=sd_allcat_HM_accessories/139-7798439-0466736?ie=UTF8&node=11403468011
+Handmade,Beauty & grooming,https://www.amazon.com/b/ref=sd_allcat_HM_beauty/139-7798439-0466736?ie=UTF8&node=11403472011
+Handmade,Stationery & party supplies,https://www.amazon.com/Handmade-Stationery-Party-Supplies/b/ref=sd_allcat_HM_stationery/139-7798439-0466736?ie=UTF8&node=11435470011
+Handmade,Toys & games,https://www.amazon.com/Handmade-Toys-Games/b/ref=sd_allcat_HM_petsupplies/139-7798439-0466736?ie=UTF8&node=11403495011
+Handmade,Pet supplies,https://www.amazon.com/b/ref=sd_allcat_HM_petsupplies/139-7798439-0466736?ie=UTF8&node=11403488011
+Handmade,Artwork,https://www.amazon.com/Handmade-Artwork/b/ref=sd_allcat_HM_artwork/139-7798439-0466736?ie=UTF8&node=11433412011
+Handmade,Kitchen & dining,https://www.amazon.com/Handmade-Kitchen-Dining/b/ref=sd_allcat_HM_kitchen/139-7798439-0466736?ie=UTF8&node=11434959011
+Handmade,Furniture,https://www.amazon.com/Handmade-Furniture/b/ref=sd_allcat_HM_furniture/139-7798439-0466736?ie=UTF8&node=11433453011
+Handmade,Baby,https://www.amazon.com/Handmade-Baby-Products/b/ref=sd_allcat_HM_baby/139-7798439-0466736?ie=UTF8&node=11403470011
+Handmade,Made in italy,https://www.amazon.com/Made-in-Italy-Handmade-Products/b/ref=sd_allcat_HM_mii/139-7798439-0466736?ie=UTF8&node=13283810011
+Sports & outdoors,Athletic clothing,https://www.amazon.com/workout-clothes/b/ref=sd_allcat_sa_sp_athclg/139-7798439-0466736?ie=UTF8&node=11444071011
+Sports & outdoors,Exercise & fitness,https://www.amazon.com/Exercise-Equipment-Gym-Equipment/b/ref=sd_allcat_sa_sp_exfit/139-7798439-0466736?ie=UTF8&node=3407731
+Sports & outdoors,Hunting & fishing,https://www.amazon.com/Hunting-Fishing-Gear-Equipment/b/ref=sd_allcat_hntfsh/139-7798439-0466736?ie=UTF8&node=706813011
+Sports & outdoors,Team sports,https://www.amazon.com/soccer-store-soccer-shop/b/ref=sd_allcat_sa_sp_team/139-7798439-0466736?ie=UTF8&node=706809011
+Sports & outdoors,Fan shop,https://www.amazon.com/Fan-Shop-Sports-Outdoors/b/ref=sd_allcat_sa_sp_fan/139-7798439-0466736?ie=UTF8&node=3386071
+Sports & outdoors,Golf,https://www.amazon.com/Golf/b/ref=sd_allcat_sa_sp_golf/139-7798439-0466736?ie=UTF8&node=3410851
+Sports & outdoors,Leisure sports & game room,https://www.amazon.com/man-cave/b/ref=sd_allcat_sa_sp_gamerm/139-7798439-0466736?ie=UTF8&node=706808011
+Sports & outdoors,Sports collectibles,https://www.amazon.com/Sports-Collectibles/b/ref=sd_allcat_sa_sp_sptcllct/139-7798439-0466736?ie=UTF8&node=3250697011
+Sports & outdoors,All sports & fitness,https://www.amazon.com/Sports-Fitness/b/ref=sd_allcat_sa_sp_allsport/139-7798439-0466736?ie=UTF8&node=10971181011
+Sports & outdoors,New gear innovations,https://www.amazon.com/b/ref=sd_allcat_lpd_gno_sports/139-7798439-0466736?ie=UTF8&node=12034909011
+Sports & outdoors,Camping & hiking,https://www.amazon.com/camping-hiking/b/ref=sd_allcat_sa_out_camphike/139-7798439-0466736?ie=UTF8&node=3400371
+Sports & outdoors,Cycling,https://www.amazon.com/Cycling-Wheel-Sports-Outdoors/b/ref=sd_allcat_sa_out_cyc/139-7798439-0466736?ie=UTF8&node=3403201
+Sports & outdoors,Outdoor clothing,https://www.amazon.com/Outdoor-Recreation-Clothing/b/ref=sd_allcat_sa_out_outcloth/139-7798439-0466736?ie=UTF8&node=11443874011
+Sports & outdoors,Scooters, skateboards & skates,https://www.amazon.com/skateboarding-scooters-skates/b/ref=sd_allcat_sa_out_scooskate/139-7798439-0466736?ie=UTF8&node=11051398011
+Sports & outdoors,Water sports,https://www.amazon.com/water-sports/b/ref=sd_allcat_sa_out_water/139-7798439-0466736?ie=UTF8&node=11051399011
+Sports & outdoors,Winter sports,https://www.amazon.com/winter-sports/b/ref=sd_allcat_sa_out_wintersport/139-7798439-0466736?ie=UTF8&node=2204518011
+Sports & outdoors,Climbing,https://www.amazon.com/climbing/b/ref=sd_allcat_sa_out_climb/139-7798439-0466736?ie=UTF8&node=3402401
+Sports & outdoors,Accessories,https://www.amazon.com/outdoor-accessories/b/ref=sd_allcat_sa_out_accout/139-7798439-0466736?ie=UTF8&node=11051400011
+Sports & outdoors,All outdoor recreation,https://www.amazon.com/outdoor-recreation/b/ref=sd_allcat_sa_out_alloutrec/139-7798439-0466736?ie=UTF8&node=706814011
+Automotive & industrial,Automotive parts & accessories,https://www.amazon.com/automotive-auto-truck-replacements-parts/b/ref=sd_allcat_apa/139-7798439-0466736?ie=UTF8&node=15684181
+Automotive & industrial,Automotive tools & equipment,https://www.amazon.com/Tools-Equipment-Automotive/b/ref=sd_allcat_ate/139-7798439-0466736?ie=UTF8&node=15706941
+Automotive & industrial,Car/vehicle electronics & gps,https://www.amazon.com/Vehicle-Electronics/b/ref=sd_allcat_ceg/139-7798439-0466736?ie=UTF8&node=3248684011
+Automotive & industrial,Tires & wheels,https://www.amazon.com/Automotive-Tires-Wheels/b/ref=sd_allcat_wt/139-7798439-0466736?ie=UTF8&node=15706571
+Automotive & industrial,Motorcycle & powersports,https://www.amazon.com/Motorcycle-ATV-Automotive/b/ref=sd_allcat_matv/139-7798439-0466736?ie=UTF8&node=346333011
+Automotive & industrial,Vehicles,https://www.amazon.com/Vehicles/b/ref=sd_allcat_vdp_store/139-7798439-0466736?ie=UTF8&node=10677469011
+Automotive & industrial,Your garage,https://www.amazon.com/gp/your-garage/ref=sd_allcat_au_pf_as_GNO/139-7798439-0466736
+Automotive & industrial,Industrial supplies,https://www.amazon.com/industrial-scientific-supplies/b/ref=sd_allcat_ind_sup/139-7798439-0466736?ie=UTF8&node=16310091
+Automotive & industrial,Lab & scientific,https://www.amazon.com/Lab-Scientific-Supplies/b/ref=sd_allcat_ind_lab/139-7798439-0466736?ie=UTF8&node=317970011
+Automotive & industrial,Janitorial,https://www.amazon.com/Janitorial-Sanitation-Supplies/b/ref=sd_allcat_ind_jan/139-7798439-0466736?ie=UTF8&node=317971011
+Automotive & industrial,Safety,https://www.amazon.com/Occupational-Health-Safety-Products/b/ref=sd_allcat_ind_saf/139-7798439-0466736?ie=UTF8&node=318135011
+Automotive & industrial,Food service,https://www.amazon.com/Food-Service-Equipment-Supplies/b/ref=sd_allcat_ind_fs/139-7798439-0466736?ie=UTF8&node=6054382011
+Automotive & industrial,Material handling,https://www.amazon.com/Material-Handling-Products/b/ref=sd_allcat_ind_mh/139-7798439-0466736?ie=UTF8&node=256346011
+Make money with amazon,Sell on amazon,https://www.amazon.com/b/ref=sd_allcat_nav_cs_sell/139-7798439-0466736?_encoding=UTF8&ld=AZUSSOA-sitedirectory&node=12766669011
+Home services,Discover amazon smart communities,https://www.amazon.com/b/ref=sd_allcat_guru_gno/139-7798439-0466736?ie=UTF8&node=17726333011
+Home services,Amazon expert home assessment,https://www.amazon.com/gp/product/B01N3JQ196/ref=sd_allcat_guru_gno/139-7798439-0466736
+Home services,Smart camera installation,https://www.amazon.com/gp/product/B074TW1JKX/ref=sd_allcat_guru_gno/139-7798439-0466736
+Home services,Smart lock installation,https://www.amazon.com/gp/product/B01N2B397N/ref=sd_allcat_guru_gno/139-7798439-0466736
+Home services,Smart light switch installation,https://www.amazon.com/gp/product/B074PHNBYN/ref=sd_allcat_guru_gno/139-7798439-0466736
+Home services,Smart thermostat installation,https://www.amazon.com/gp/product/B01DCC4LQQ/ref=sd_allcat_guru_gno/139-7798439-0466736
+Home services,Smart home security packages,https://www.amazon.com/b/ref=sd_allcat_guru_gno/139-7798439-0466736?ie=UTF8&node=12643063011
+Home services,All smart home services,https://www.amazon.com/b/ref=sd_allcat_guru_gno/139-7798439-0466736?ie=UTF8&node=14586916011
+Home services,Computer & electronics,https://www.amazon.com/Computers-Electronics-Services/b/ref=sd_allcat_localsvs_ce/139-7798439-0466736?ie=UTF8&node=10192836011
+Home services,Home improvement & repair,https://www.amazon.com/In-Home-Services/b/ref=sd_allcat_localsvs_home/139-7798439-0466736?ie=UTF8&node=10192825011
+Home services,Assembly,https://www.amazon.com/Furniture-Assembly-Services/b/ref=sd_allcat_localsvs_assembly/139-7798439-0466736?ie=UTF8&node=11525233011
+Home services,Cleaning,https://www.amazon.com/Cleaning-Services/b/ref=sd_allcat_localsvs_cleaning/139-7798439-0466736?ie=UTF8&node=11525224011
+Home services,Plumbing,https://www.amazon.com/Plumbing-Services/b/ref=sd_allcat_localsvs_plumbing/139-7798439-0466736?ie=UTF8&node=10192830011
+Home services,Electrical,https://www.amazon.com/Electrical-Wiring-Services/b/ref=sd_allcat_localsvs_electrical/139-7798439-0466736?ie=UTF8&node=10192827011
+Home services,Home theater,https://www.amazon.com/Home-Theater-Setup-Installation-Services/b/ref=sd_allcat_localsvs_hometheater/139-7798439-0466736?ie=UTF8&node=10192838011
+Home services,Home services,https://www.amazon.com/b/ref=sd_allcat_localsvs_all/139-7798439-0466736?ie=UTF8&node=8098158011
+Credit & payment products,Amazon.com store card,https://www.amazon.com/iss/credit/storecardmember/ref=sd_allcat_credit_plcc/139-7798439-0466736?_encoding=UTF8&plattr=PLCCGNO
+Credit & payment products,Amazon rewards visa signature cards,https://www.amazon.com/iss/credit/rewardscardmember/ref=sd_allcat_credit_cbcc/139-7798439-0466736?_encoding=UTF8&plattr=CBCCGNO
+Credit & payment products,Amazon.com corporate credit line,https://www.amazon.com/dp/B07CBJQS16/ref=sd_allcat_credit_ccl/139-7798439-0466736?_encoding=UTF8&plattr=GNO_CCL&pr=ibprox
+Credit & payment products,Credit card marketplace,https://www.amazon.com/compare-credit-card-offers/b/ref=sd_allcat_credit_ccmp/139-7798439-0466736?ie=UTF8&node=3561432011
+Credit & payment products,Shop with points at amazon,https://www.amazon.com/b/ref=sd_allcat_credit_swp/139-7798439-0466736?ie=UTF8&node=16218619011
+Credit & payment products,Amazon cash,https://www.amazon.com/b/ref=sd_allcat_amzcash/139-7798439-0466736?ie=UTF8&node=14583169011
+Credit & payment products,Amazon currency converter,https://www.amazon.com/Currency-Converter/b/ref=sd_allcat_credit_tfx/139-7798439-0466736?ie=UTF8&node=388305011
+Credit & payment products,Amazon allowance,https://www.amazon.com/Amazon-Allowance-Gift-Cards/b/ref=sd_allcat_gno_allowance/139-7798439-0466736?ie=UTF8&node=11453461011
+Credit & payment products,Reload your amazon balance,https://www.amazon.com/Reload-Your-Gift-Card-Balance/b/ref=sd_allcat_gno_balance/139-7798439-0466736?ie=UTF8&node=10232440011
+Amazon launchpad,Shop today's brightest startups,https://www.amazon.com/Amazon-Launchpad/b/ref=sd_allcat_al_fsd_all/139-7798439-0466736?ie=UTF8&node=12034488011
+Amazon launchpad,Gadgets,https://www.amazon.com/b/ref=sd_allcat_al_fsd_gadgets/139-7798439-0466736?ie=UTF8&node=12034490011
+Amazon launchpad,Toys,https://www.amazon.com/b/ref=sd_allcat_al_fsd_toys/139-7798439-0466736?ie=UTF8&node=12034506011
+Amazon launchpad,House,https://www.amazon.com/b/ref=sd_allcat_al_fsd_house/139-7798439-0466736?ie=UTF8&node=12034491011
+Amazon launchpad,Body,https://www.amazon.com/b/ref=sd_allcat_al_fsd_body/139-7798439-0466736?ie=UTF8&node=12034493011
+Amazon launchpad,Food,https://www.amazon.com/b/ref=sd_allcat_al_fsd_food/139-7798439-0466736?ie=UTF8&node=12034492011
+Amazon launchpad,Collections,https://www.amazon.com/Amazon-Launchpad/b/ref=sd_allcat_al_fsd_collections/139-7798439-0466736?ie=UTF8&node=12632031011
+Amazon launchpad,Gifts,https://www.amazon.com/Amazon-Launchpad/b/ref=sd_allcat_al_fsd_gifts/139-7798439-0466736?ie=UTF8&node=13270237011
+Amazon exclusives,Amazon exclusives,https://www.amazon.com/Amazon-Exclusives/b/ref=sd_allcat_full_store_dir/139-7798439-0466736?ie=UTF8&node=11024013011
+Subscribe with amazon,All subscriptions,https://www.amazon.com/b/ref=sd_allcat_all_subscribe/139-7798439-0466736?ie=UTF8&node=14498690011
+Treasure truck,Get started,https://www.amazon.com/treasuretruck/ref=sd_allcat_sd_tt_start/139-7798439-0466736
+International shopping,Where we ship,https://www.amazon.com/gp/help/customer/display.html/ref=sd_allcat_full_store_dir_AG_shipping/139-7798439-0466736?ie=UTF8&nodeId=201910800
+International shopping,Visit amazon global,https://www.amazon.com/International-Shipping-Direct/b/ref=sd_allcat_full_store_dir_VisitAg/139-7798439-0466736?ie=UTF8&node=230659011
+Amazon photos and prints,Amazon photos,https://www.amazon.com/photos/home/ref=sd_allcat_gw_prime_learn/139-7798439-0466736
+Amazon photos and prints,Get the apps,https://www.amazon.com/photos/apps/ref=sd_allcat_gw_photos_apps/139-7798439-0466736
+Amazon photos and prints,Sign in,https://www.amazon.com/photos/ref=sd_allcat_gw_photos_login/139-7798439-0466736?_encoding=UTF8&sf=1
+Amazon photos and prints,Amazon drive,https://www.amazon.com/STRING-subnav_primephotos_amazondrive/b/ref=sd_allcat_gw_dr_about/139-7798439-0466736?ie=UTF8&node=15547130011
+Amazon photos and prints,Get the apps,https://www.amazon.com/gp/drive/download-apps/ref=sd_allcat_gw_dl_apps/139-7798439-0466736
+Amazon photos and prints,Sign in,https://www.amazon.com/clouddrive/ref=sd_allcat_gw_drive_login/139-7798439-0466736?_encoding=UTF8&sf=1
+Amazon photos and prints,Online photo printing,https://www.amazon.com/STRING-subnav-prime-photos/b/ref=sd_allcat_gw_print_about/139-7798439-0466736?ie=UTF8&node=14866317011
+Amazon storefronts,All storefronts,https://www.amazon.com/b/ref=sd_allcat_sbp_21_all/139-7798439-0466736?ie=UTF8&node=17879387011
+Amazon storefronts,Discover women-owned businesses,https://www.amazon.com/b/ref=sd_allcat_sbp_21_wob/139-7798439-0466736?ie=UTF8&node=17964635011
+Amazon storefronts,Explore family-focused businesses,https://www.amazon.com/b/ref=sd_allcat_sbp_21_ffb/139-7798439-0466736?ie=UTF8&node=17964634011
+Amazon storefronts,Support artisans,https://www.amazon.com/b/ref=sd_allcat_sbp_21_art/139-7798439-0466736?ie=UTF8&node=17964632011
+Amazon storefronts,Celebrate innnovator-makers,https://www.amazon.com/b/ref=sd_allcat_sbp_21_inn/139-7798439-0466736?ie=UTF8&node=17964637011

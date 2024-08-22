@@ -1,0 +1,28 @@
+
+services:
+  web-snrbackend:
+    image: snrbackend/shopnroarbackenddev:latest
+    deploy:
+      replicas: 2
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s
+    build:
+      context: .
+    ports:
+      - "8001:8000"  # Changed to port 8001
+    networks:
+      - webnet
+
+  cache:
+    image: memcached
+    ports:
+      - "11211:11211"
+    entrypoint:
+      - memcached
+      - -m 64
+
+networks:
+  webnet:

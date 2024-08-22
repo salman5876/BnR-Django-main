@@ -1,0 +1,424 @@
+{
+   "bleedingImage": "yes", 
+   "uid": "LHN-12", 
+   "departments": [
+      {
+         "colNum": "1", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "value": "/cp/Arts-Crafts-and-Sewing/1334134"
+            }, 
+            "title": "Arts, Crafts & Sewing", 
+            "uid": "LHN-12-DEPT-1", 
+            "linkText": "Arts, Crafts & Sewing"
+         }, 
+         "uid": "tQCJRs2v", 
+         "categories": [
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/art-drawing-supplies/1334134_5899871"
+                  }, 
+                  "title": "Art & Drawing Supplies", 
+                  "uid": "LHN-12-DEPT-1-CAT-1", 
+                  "linkText": "Art & Drawing Supplies"
+               }, 
+               "uid": "z5cAfrrL"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/beading-jewelry-making/beading-jewelry-making/1334134_4533160_1043543"
+                  }, 
+                  "title": "Beading & Jewelry ", 
+                  "uid": "LHN-12-DEPT-1-CAT-2", 
+                  "linkText": "Beading & Jewelry "
+               }, 
+               "uid": "p1g8CO27"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/crafting/1334134_6172404"
+                  }, 
+                  "title": "Crafting", 
+                  "uid": "LHN-12-DEPT-1-CAT-3", 
+                  "linkText": "Crafting"
+               }, 
+               "uid": "L24W1bhp"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/die-cut-machines/1334134_8495017_3276179"
+                  }, 
+                  "title": "Die Cutting Machines", 
+                  "uid": "LHN-12-DEPT-1-CAT-4", 
+                  "linkText": "Die Cutting Machines"
+               }, 
+               "uid": "u8udDxDI"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/sewing/1334134_1094704"
+                  }, 
+                  "title": "Sewing", 
+                  "uid": "LHN-12-DEPT-1-CAT-5", 
+                  "linkText": "Sewing"
+               }, 
+               "uid": "MTo2Ma6P"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/fabric/1334134_4232946"
+                  }, 
+                  "title": "Fabric", 
+                  "uid": "LHN-12-DEPT-1-CAT-6", 
+                  "linkText": "Fabric"
+               }, 
+               "uid": "4C3wtIq9"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/scrapbooking-paper-crafts/1334134_8495017"
+                  }, 
+                  "title": "Scrapbooking Supplies", 
+                  "uid": "LHN-12-DEPT-1-CAT-7", 
+                  "linkText": "Scrapbooking Supplies"
+               }, 
+               "uid": "r5NTPUO2"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/home/artificial-plants-and-flowers/4044_133012_4510225"
+                  }, 
+                  "title": "Artificial Plants", 
+                  "uid": "LHN-12-DEPT-1-CAT-8", 
+                  "linkText": "Artificial Plants & Flowers"
+               }, 
+               "uid": "UwcgwzUW"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/knitting-crochet/1334134_4880989"
+                  }, 
+                  "title": "Knitting & Crochet", 
+                  "uid": "LHN-12-DEPT-1-CAT-9", 
+                  "linkText": "Knitting & Crochet"
+               }, 
+               "uid": "yhjPGOXg"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/yarn/1334134_1095481"
+                  }, 
+                  "title": "Yarn", 
+                  "uid": "LHN-12-DEPT-1-CAT-10", 
+                  "linkText": "Yarn"
+               }, 
+               "uid": "8lRgcben"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/arts-crafts-sewing/craft-furniture-storage/1334134_6355365"
+                  }, 
+                  "title": "Craft Furniture & Storage", 
+                  "uid": "LHN-12-DEPT-1-CAT-11", 
+                  "linkText": "Craft Furniture & Storage"
+               }, 
+               "uid": "FazVF4tZ"
+            }
+         ]
+      }, 
+      {
+         "colNum": "1", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "value": "/cp/crafting-tips/6077448?&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+TI+Flyout"
+            }, 
+            "title": "Craft Tips & Ideas", 
+            "uid": "LHN-12-DEPT-2", 
+            "linkText": "Craft Tips & Ideas"
+         }, 
+         "uid": "-i8x9y7T"
+      }, 
+      {
+         "colNum": "2", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "value": "/cp/2637?&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Party+Flyout"
+            }, 
+            "title": "Party & Occasions", 
+            "uid": "LHN-12-DEPT-3", 
+            "linkText": "Party & Occasions"
+         }, 
+         "uid": "xrEUOinZ", 
+         "categories": [
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "rawValue": "https://www.walmart.com/browse/party-occasions/cake-baking-pastry-supplies/2637_1104398", 
+                     "value": "https://www.walmart.com/browse/party-occasions/cake-baking-pastry-supplies/2637_1104398"
+                  }, 
+                  "title": "Cake, Baking & Pastry Supplies", 
+                  "uid": "LHN-12-DEPT-3-CAT-1", 
+                  "linkText": "Baking & Pastry Supplies"
+               }, 
+               "uid": "2ntz5LD_"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/balloons/2637_1042319_1212898_1212901/?_refineresult=true&sort=new&povid=2637+%257C+contentZone20+%257C+2017-01-11+%257C+1+%257C+Party+Balloons+Flyout"
+                  }, 
+                  "title": "Balloons", 
+                  "uid": "LHN-12-DEPT-3-CAT-2", 
+                  "linkText": "Balloons"
+               }, 
+               "uid": "IPXxD8zR"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-supplies/cards-stationery-invitations/2637_1042319_1042439?&povid=2637+%7C+contentZone20+%7C+2017-01-11+%7C+1+%7C+Party+Cards+Flyout"
+                  }, 
+                  "title": "Cards & Invitations", 
+                  "uid": "LHN-12-DEPT-3-CAT-3", 
+                  "linkText": "Cards & Invitations"
+               }, 
+               "uid": "9DOSsM1y"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/disposable-tableware/2637_1042319_1212904/?_refineresult=true&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Tableware+Flyout"
+                  }, 
+                  "title": "Disposable Tableware", 
+                  "uid": "LHN-12-DEPT-3-CAT-4", 
+                  "linkText": "Disposable Tableware"
+               }, 
+               "uid": "peO_fOEQ"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/gift-wrap-supplies/2637_1042319_1042327?&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Giftwrap+Flyout"
+                  }, 
+                  "title": "Gift Wrap & Supplies", 
+                  "uid": "LHN-12-DEPT-3-CAT-5", 
+                  "linkText": "Giftwrap & Supplies"
+               }, 
+               "uid": "OjhnQKw-"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/party-decorations/2637_1042319_1212898/?_refineresult=true&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Party+Decor+Flyout"
+                  }, 
+                  "title": "Party Decorations", 
+                  "uid": "LHN-12-DEPT-3-CAT-6", 
+                  "linkText": "Party Decorations"
+               }, 
+               "uid": "xnTwtyA2"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/party-favors-goody-bags/2637_1042319_1042324?&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Party+Favor+Flyout"
+                  }, 
+                  "title": "Party Favors & Goody Bags", 
+                  "uid": "LHN-12-DEPT-3-CAT-7", 
+                  "linkText": "Party Favors"
+               }, 
+               "uid": "4i6IRr5d"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/pinatas/2637_1042319_1212898_1212900/?_refineresult=true&sort=new&povid=2637+%7C+contentZone20+%7C+2017-01-11+%7C+1+%7C+Party+Pinata+Flyout"
+                  }, 
+                  "title": "Pinatas", 
+                  "uid": "LHN-12-DEPT-3-CAT-8", 
+                  "linkText": "Pinatas"
+               }, 
+               "uid": "FY9rbqtT"
+            }
+         ]
+      }, 
+      {
+         "colNum": "2", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "value": "/browse/halloween/all-costumes/2637_615760_1088766?&povid=2637+%7C+contentZone20+%7C+2017-01-11+%7C+1+%7C+Party+Costumes+Flyout"
+            }, 
+            "title": "Costumes & Dress Up", 
+            "uid": "LHN-12-DEPT-4", 
+            "linkText": "Costumes & Dress Up"
+         }, 
+         "uid": "LDj3q04O"
+      }, 
+      {
+         "colNum": "2", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "rawValue": "https://www.walmart.com/cp/recipes-entertaining/3498343", 
+               "value": "https://www.walmart.com/cp/recipes-entertaining/3498343"
+            }, 
+            "title": "Party Ideas & Recipes", 
+            "uid": "LHN-12-DEPT-5", 
+            "linkText": "Party Ideas & Recipes"
+         }, 
+         "uid": "y9kFIj6u"
+      }, 
+      {
+         "colNum": "3", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "value": "/browse/party-supplies-collections/0/0/?_refineresult=true&_be_shelf_id=4612&search_sort=100&facet=shelf_id:4612&povid=2637+%7C+contentZone20+%7C+2017-01-11+%7C+1+%7C+Party+Theme+3+Flyout"
+            }, 
+            "title": "Party Themes", 
+            "uid": "LHN-12-DEPT-6", 
+            "linkText": "Party Themes"
+         }, 
+         "uid": "sr_492oJ", 
+         "categories": [
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-supplies-collections/0/0/?_refineresult=true&_be_shelf_id=4612&search_sort=100&facet=shelf_id:4612&povid=2637+%7C+contentZone20+%7C+2017-01-11+%7C+1+%7C+All+Party+Themes+Flyout"
+                  }, 
+                  "title": "Themed Party Sets", 
+                  "uid": "LHN-12-DEPT-6-CAT-1", 
+                  "linkText": "Themed Party Sets"
+               }, 
+               "uid": "N7qAE_UQ"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/party-supplies/2637_1042319?cat_id=2637_1042319&facet=occasion:Anniversary&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Party+Anniversary+Flyout"
+                  }, 
+                  "title": "Anniversary", 
+                  "uid": "LHN-12-DEPT-6-CAT-2", 
+                  "linkText": "Anniversary"
+               }, 
+               "uid": "POwWqmyD"
+            }, 
+            {
+               "category": {
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/browse/party-occasions/party-supplies/2637_1042319?cat_id=2637_1042319&facet=occasion:Baby%20Shower%7C%7Coccasion:New%20Baby&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Baby+Shower+Flyout"
+                  }, 
+                  "title": "Baby Shower", 
+                  "uid": "LHN-12-DEPT-6-CAT-3", 
+                  "linkText": "Baby Shower"
+               }, 
+               "uid": "pEafUDhy"
+            }, 
+            {
+               "category": {
+                  "uid": "LHN-12-DEPT-6-CAT-4", 
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/cp/halloween-costumes/615760?&povid=2637+%7C+contentZone20+%7C+2018-01-22+%7C+1+%7C+Halloween+Flyout"
+                  }, 
+                  "linkText": "Halloween", 
+                  "title": "Halloween"
+               }, 
+               "uid": "kkWEc4cX"
+            }, 
+            {
+               "category": {
+                  "uid": "LHN-12-DEPT-6-CAT-5", 
+                  "clickThrough": {
+                     "type": "url", 
+                     "value": "/cp/christmas-decor/633379?&povid=633379+%7C+contentZone20+%7C+2018-01-22+%7C+1+%7C+PartyFlyout+XmasDecor"
+                  }, 
+                  "linkText": "Christmas Decor", 
+                  "title": "Christmas Decor"
+               }, 
+               "uid": "-cM5goit"
+            }
+         ]
+      }, 
+      {
+         "colNum": "3", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "value": "/cp/birthday-shop/8972913?&povid=2637+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+Birthday+Shop+Flyout"
+            }, 
+            "title": "Birthday Shop", 
+            "uid": "LHN-12-DEPT-7", 
+            "linkText": "Birthday Shop"
+         }, 
+         "uid": "yFxgwGH0"
+      }, 
+      {
+         "colNum": "3", 
+         "department": {
+            "clickThrough": {
+               "type": "url", 
+               "value": "/cp/Wedding-Shop/112776?povid=112776+%7C+contentZone20+%7C+2016-11-07+%7C+1+%7C+LN-Wedding+Shop+Flyout+Nav"
+            }, 
+            "title": "Wedding Shop", 
+            "uid": "LHN-12-DEPT-8", 
+            "linkText": "Wedding Shop"
+         }, 
+         "uid": "_iL6xLzB"
+      }
+   ], 
+   "link": {
+      "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-9d5a/k2-_c17e6133-dfc7-4417-9a03-0cd219eef0dc.v1.png", 
+      "contentType": "image/png", 
+      "uid": "LHN-12-IMAGE", 
+      "clickThrough": {
+         "type": "url", 
+         "value": "https://www.walmart.com/browse/arts-crafts-sewing/1334134?cat_id=1334134&facet=special_offers%3ARollback&vertical_whitelist=home#searchProductResult"
+      }, 
+      "assetId": "16491726", 
+      "title": "41444-209973 Crafts Rollbacks Flyout_V1", 
+      "height": "460", 
+      "width": "207", 
+      "assetName": "41444-209973 Crafts Rollbacks Flyout_V1.png", 
+      "alt": "Rollbacks: Additional savings on scrapbooking, art supplies & more! Shop now.", 
+      "size": "109154"
+   }, 
+   "imagePlacement": "verticalColumn", 
+   "name": "Sewing, Crafts & Party Supplies"
+}

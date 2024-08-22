@@ -1,0 +1,200 @@
+Books,Men's health,https://www.amazon.com/s/ref=lp_10_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A4667&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Mental health,https://www.amazon.com/s/ref=lp_10_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A4682&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Nutrition,https://www.amazon.com/s/ref=lp_10_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A282861&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Psychology & counseling,https://www.amazon.com/s/ref=lp_10_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A11119&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Reference,https://www.amazon.com/s/ref=lp_10_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A4728&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Safety & first aid,https://www.amazon.com/s/ref=lp_10_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A465688&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Sexual health,https://www.amazon.com/s/ref=lp_10_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A6514340011&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Sports health & safety,https://www.amazon.com/s/ref=lp_10_nr_n_15?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A10075829011&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Teen health,https://www.amazon.com/s/ref=lp_10_nr_n_16?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A6511978011&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Vaccinations,https://www.amazon.com/s/ref=lp_10_nr_n_17?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A13922584011&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Women's health,https://www.amazon.com/s/ref=lp_10_nr_n_18?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10%2Cn%3A4672&bbn=10&ie=UTF8&qid=1552634373&rnid=10
+Books,Africa,https://www.amazon.com/s/ref=lp_9_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4762&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Americas,https://www.amazon.com/s/ref=lp_9_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4808&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Arctic & antarctica,https://www.amazon.com/s/ref=lp_9_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A16252761&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Asia,https://www.amazon.com/s/ref=lp_9_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4884&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Australia & oceania,https://www.amazon.com/s/ref=lp_9_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4921&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Europe,https://www.amazon.com/s/ref=lp_9_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4935&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Middle east,https://www.amazon.com/s/ref=lp_9_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4995&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Russia,https://www.amazon.com/s/ref=lp_9_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A5032&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,United states,https://www.amazon.com/s/ref=lp_9_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4853&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,World,https://www.amazon.com/s/ref=lp_9_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A5035&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Ancient civilizations,https://www.amazon.com/s/ref=lp_9_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4873&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Military,https://www.amazon.com/s/ref=lp_9_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A5011&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Historical study & educational resources,https://www.amazon.com/s/ref=lp_9_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A9%2Cn%3A4987&bbn=9&ie=UTF8&qid=1552634460&rnid=9
+Books,Coloring books for grown-ups,https://www.amazon.com/s/ref=lp_86_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A11357541011&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Humor,https://www.amazon.com/s/ref=lp_86_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A4456&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Movies,https://www.amazon.com/s/ref=lp_86_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A4484&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Performing arts,https://www.amazon.com/s/ref=lp_86_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A521000&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Pop culture,https://www.amazon.com/s/ref=lp_86_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A4550&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Puzzles & games,https://www.amazon.com/s/ref=lp_86_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A4402&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Radio,https://www.amazon.com/s/ref=lp_86_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A4564&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Sheet music & scores,https://www.amazon.com/s/ref=lp_86_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A1622&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Television,https://www.amazon.com/s/ref=lp_86_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A4569&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Trivia & fun facts,https://www.amazon.com/s/ref=lp_86_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A86%2Cn%3A11871&bbn=86&ie=UTF8&qid=1552634526&rnid=86
+Books,Administrative law,https://www.amazon.com/s/ref=lp_10777_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173492&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Biographies,https://www.amazon.com/s/ref=lp_10777_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A2422&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Business,https://www.amazon.com/s/ref=lp_10777_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173486&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Constitutional law,https://www.amazon.com/s/ref=lp_10777_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A227137&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Criminal law,https://www.amazon.com/s/ref=lp_10777_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173489&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Dictionaries & terminology,https://www.amazon.com/s/ref=lp_10777_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A10845&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Environmental & natural resources law,https://www.amazon.com/s/ref=lp_10777_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A10868&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Estate planning,https://www.amazon.com/s/ref=lp_10777_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A5744305011&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Ethics & professional responsibility,https://www.amazon.com/s/ref=lp_10777_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A10871&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Family law,https://www.amazon.com/s/ref=lp_10777_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A227139&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Foreign & international law,https://www.amazon.com/s/ref=lp_10777_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A10898&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Health & medical law,https://www.amazon.com/s/ref=lp_10777_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A5744306011&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Intellectual property,https://www.amazon.com/s/ref=lp_10777_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173488&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Law practice,https://www.amazon.com/s/ref=lp_10777_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173487&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Legal education,https://www.amazon.com/s/ref=lp_10777_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A10915&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Legal history,https://www.amazon.com/s/ref=lp_10777_nr_n_15?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A10922&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Legal self-help,https://www.amazon.com/s/ref=lp_10777_nr_n_16?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173483&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Legal theory & systems,https://www.amazon.com/s/ref=lp_10777_nr_n_17?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173495&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Media & the law,https://www.amazon.com/s/ref=lp_10777_nr_n_18?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A10941&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Philosophy,https://www.amazon.com/s/ref=lp_10777_nr_n_19?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A16022411&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Rules & procedures,https://www.amazon.com/s/ref=lp_10777_nr_n_20?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173490&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Specialties,https://www.amazon.com/s/ref=lp_10777_nr_n_21?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A173491&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Tax law,https://www.amazon.com/s/ref=lp_10777_nr_n_22?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A10777%2Cn%3A227138&bbn=10777&ie=UTF8&qid=1552634570&rnid=10777
+Books,Biographies & memoirs,https://www.amazon.com/s/ref=lp_301889_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A2439&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Comics & graphic novels,https://www.amazon.com/s/ref=lp_301889_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A17861267011&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Lgbt studies,https://www.amazon.com/s/ref=lp_301889_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A16244291&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Literature & fiction,https://www.amazon.com/s/ref=lp_301889_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A10719&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Mystery & thrillers,https://www.amazon.com/s/ref=lp_301889_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A301806&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Romance,https://www.amazon.com/s/ref=lp_301889_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A13922579011&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Science fiction & fantasy,https://www.amazon.com/s/ref=lp_301889_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A17861278011&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Travel,https://www.amazon.com/s/ref=lp_301889_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A301889%2Cn%3A17217&bbn=301889&ie=UTF8&qid=1552634671&rnid=301889
+Books,Action & adventure,https://www.amazon.com/s/ref=lp_17_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A720360&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,African american,https://www.amazon.com/s/ref=lp_17_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A9823&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Ancient & medieval literature,https://www.amazon.com/s/ref=lp_17_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A5391236011&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,British & irish,https://www.amazon.com/s/ref=lp_17_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10016&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Classics,https://www.amazon.com/s/ref=lp_17_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10399&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Contemporary,https://www.amazon.com/s/ref=lp_17_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10129&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Dramas & plays,https://www.amazon.com/s/ref=lp_17_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A2159&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Erotica,https://www.amazon.com/s/ref=lp_17_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10141&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Essays & correspondence,https://www.amazon.com/s/ref=lp_17_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10108&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Genre fiction,https://www.amazon.com/s/ref=lp_17_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10134&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Historical fiction,https://www.amazon.com/s/ref=lp_17_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10177&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,History & criticism,https://www.amazon.com/s/ref=lp_17_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10204&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Humor & satire,https://www.amazon.com/s/ref=lp_17_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A4465&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Literary,https://www.amazon.com/s/ref=lp_17_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10132&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Mythology & folk tales,https://www.amazon.com/s/ref=lp_17_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A5391238011&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Poetry,https://www.amazon.com/s/ref=lp_17_nr_n_15?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10248&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Short stories & anthologies,https://www.amazon.com/s/ref=lp_17_nr_n_16?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10300&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,United states,https://www.amazon.com/s/ref=lp_17_nr_n_17?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A9822&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Women's fiction,https://www.amazon.com/s/ref=lp_17_nr_n_18?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A542654&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,World literature,https://www.amazon.com/s/ref=lp_17_nr_n_19?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A17%2Cn%3A10311&bbn=17&ie=UTF8&qid=1552634712&rnid=17
+Books,Administration & medicine economics,https://www.amazon.com/s/ref=lp_173514_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A227560&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Allied health professions,https://www.amazon.com/s/ref=lp_173514_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A227571&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Basic sciences,https://www.amazon.com/s/ref=lp_173514_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A227191&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Dentistry,https://www.amazon.com/s/ref=lp_173514_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A227604&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,History,https://www.amazon.com/s/ref=lp_173514_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A3559244011&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Medical informatics,https://www.amazon.com/s/ref=lp_173514_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A266181&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Medicine,https://www.amazon.com/s/ref=lp_173514_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A265542&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Nursing,https://www.amazon.com/s/ref=lp_173514_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A227640&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Pharmacology,https://www.amazon.com/s/ref=lp_173514_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A265544&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Psychology,https://www.amazon.com/s/ref=lp_173514_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A6511980011&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Research,https://www.amazon.com/s/ref=lp_173514_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A227677&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Veterinary medicine,https://www.amazon.com/s/ref=lp_173514_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A173514%2Cn%3A227719&bbn=173514&ie=UTF8&qid=1552634833&rnid=173514
+Books,Mystery,https://www.amazon.com/s/ref=lp_18_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A18%2Cn%3A10457&bbn=18&ie=UTF8&qid=1552634897&rnid=18
+Books,Thrillers & suspense,https://www.amazon.com/s/ref=lp_18_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A18%2Cn%3A10484&bbn=18&ie=UTF8&qid=1552634897&rnid=18
+Books,Writing,https://www.amazon.com/s/ref=lp_18_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A18%2Cn%3A12034&bbn=18&ie=UTF8&qid=1552634897&rnid=18
+Books,Adoption,https://www.amazon.com/s/ref=lp_20_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11350&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Aging parents,https://www.amazon.com/s/ref=lp_20_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11352&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Babysitting day care & child care,https://www.amazon.com/s/ref=lp_20_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A10166921011&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Family activities,https://www.amazon.com/s/ref=lp_20_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11365&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Family health,https://www.amazon.com/s/ref=lp_20_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11367&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Family relationships,https://www.amazon.com/s/ref=lp_20_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11370&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Fertility,https://www.amazon.com/s/ref=lp_20_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A68181&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Humor,https://www.amazon.com/s/ref=lp_20_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A761128&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Marriage & adult relationships,https://www.amazon.com/s/ref=lp_20_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A4734&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Parenting,https://www.amazon.com/s/ref=lp_20_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11401&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Pregnancy & childbirth,https://www.amazon.com/s/ref=lp_20_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A4676&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Reference,https://www.amazon.com/s/ref=lp_20_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11434&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Special needs,https://www.amazon.com/s/ref=lp_20_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A20%2Cn%3A11436&bbn=20&ie=UTF8&qid=1552634912&rnid=20
+Books,Anthropology,https://www.amazon.com/s/ref=lp_3377866011_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A3377866011%2Cn%3A11233&bbn=3377866011&ie=UTF8&qid=1552634973&rnid=3377866011
+Books,Archaeology,https://www.amazon.com/s/ref=lp_3377866011_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A3377866011%2Cn%3A11242&bbn=3377866011&ie=UTF8&qid=1552634973&rnid=3377866011
+Books,Philosophy,https://www.amazon.com/s/ref=lp_3377866011_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A3377866011%2Cn%3A11019&bbn=3377866011&ie=UTF8&qid=1552634973&rnid=3377866011
+Books,Politics & government,https://www.amazon.com/s/ref=lp_3377866011_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A3377866011%2Cn%3A5571255011&bbn=3377866011&ie=UTF8&qid=1552634973&rnid=3377866011
+Books,Social sciences,https://www.amazon.com/s/ref=lp_3377866011_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A3377866011%2Cn%3A11232&bbn=3377866011&ie=UTF8&qid=1552634973&rnid=3377866011
+Books,Sociology,https://www.amazon.com/s/ref=lp_3377866011_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A3377866011%2Cn%3A11288&bbn=3377866011&ie=UTF8&qid=1552634973&rnid=3377866011
+Books,Women's studies,https://www.amazon.com/s/ref=lp_3377866011_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A3377866011%2Cn%3A11325&bbn=3377866011&ie=UTF8&qid=1552634973&rnid=3377866011
+Books,Almanacs & yearbooks,https://www.amazon.com/s/ref=lp_21_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11444&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Atlases & maps,https://www.amazon.com/s/ref=lp_21_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11448&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Careers,https://www.amazon.com/s/ref=lp_21_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A2572&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Catalogs & directories,https://www.amazon.com/s/ref=lp_21_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11626&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Consumer guides,https://www.amazon.com/s/ref=lp_21_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11472&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Dictionaries & thesauruses,https://www.amazon.com/s/ref=lp_21_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11475&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Encyclopedias & subject guides,https://www.amazon.com/s/ref=lp_21_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11713&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,English as a second language,https://www.amazon.com/s/ref=lp_21_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11823&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Etiquette,https://www.amazon.com/s/ref=lp_21_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11761&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Foreign language study & reference,https://www.amazon.com/s/ref=lp_21_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11773&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Genealogy,https://www.amazon.com/s/ref=lp_21_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11880&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Quotations,https://www.amazon.com/s/ref=lp_21_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11902&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Survival & emergency preparedness,https://www.amazon.com/s/ref=lp_21_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A8975382011&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Test preparation,https://www.amazon.com/s/ref=lp_21_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A5267710011&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Words language & grammar,https://www.amazon.com/s/ref=lp_21_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A11970&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Writing research & publishing guides,https://www.amazon.com/s/ref=lp_21_nr_n_15?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A21%2Cn%3A5267707011&bbn=21&ie=UTF8&qid=1552635005&rnid=21
+Books,Agnosticism,https://www.amazon.com/s/ref=lp_22_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12762&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Atheism,https://www.amazon.com/s/ref=lp_22_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12764&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Buddhism,https://www.amazon.com/s/ref=lp_22_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12279&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Christian books & bibles,https://www.amazon.com/s/ref=lp_22_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12290&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Hinduism,https://www.amazon.com/s/ref=lp_22_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12506&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Islam,https://www.amazon.com/s/ref=lp_22_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12522&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Judaism,https://www.amazon.com/s/ref=lp_22_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12540&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Literature & fiction,https://www.amazon.com/s/ref=lp_22_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12489&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,New age & spirituality,https://www.amazon.com/s/ref=lp_22_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12621&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Occult & paranormal,https://www.amazon.com/s/ref=lp_22_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12689&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Other eastern religions & sacred texts,https://www.amazon.com/s/ref=lp_22_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12735&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Other religions practices & sacred texts,https://www.amazon.com/s/ref=lp_22_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12761&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Religious art,https://www.amazon.com/s/ref=lp_22_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A1873&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Religious studies,https://www.amazon.com/s/ref=lp_22_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12779&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Worship & devotion,https://www.amazon.com/s/ref=lp_22_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A22%2Cn%3A12809&bbn=22&ie=UTF8&qid=1552635079&rnid=22
+Books,Action & adventure,https://www.amazon.com/s/ref=lp_23_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A11764651011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,African american,https://www.amazon.com/s/ref=lp_23_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A9059879011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Anthologies,https://www.amazon.com/s/ref=lp_23_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A12827&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Billionaires,https://www.amazon.com/s/ref=lp_23_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A17919110011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Clean & wholesome,https://www.amazon.com/s/ref=lp_23_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A11764652011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Contemporary,https://www.amazon.com/s/ref=lp_23_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A13354&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Erotica,https://www.amazon.com/s/ref=lp_23_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A10141&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Fantasy,https://www.amazon.com/s/ref=lp_23_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A7654406011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Gothic,https://www.amazon.com/s/ref=lp_23_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A276240011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Historical,https://www.amazon.com/s/ref=lp_23_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A13371&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Holidays,https://www.amazon.com/s/ref=lp_23_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A10387326011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Inspirational,https://www.amazon.com/s/ref=lp_23_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A332930011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Lgbt,https://www.amazon.com/s/ref=lp_23_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A13922579011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Medical,https://www.amazon.com/s/ref=lp_23_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A17745835011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Military,https://www.amazon.com/s/ref=lp_23_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A8373231011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Multicultural,https://www.amazon.com/s/ref=lp_23_nr_n_15?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A68262&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,New adult & college,https://www.amazon.com/s/ref=lp_23_nr_n_16?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A8373230011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Paranormal,https://www.amazon.com/s/ref=lp_23_nr_n_17?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A13356&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Regency,https://www.amazon.com/s/ref=lp_23_nr_n_18?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A746228&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Romantic comedy,https://www.amazon.com/s/ref=lp_23_nr_n_19?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A9059885011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Romantic suspense,https://www.amazon.com/s/ref=lp_23_nr_n_20?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A13389&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Science fiction,https://www.amazon.com/s/ref=lp_23_nr_n_21?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A7654408011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Sports,https://www.amazon.com/s/ref=lp_23_nr_n_22?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A10387327011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Time travel,https://www.amazon.com/s/ref=lp_23_nr_n_23?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A13434&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Vampires,https://www.amazon.com/s/ref=lp_23_nr_n_24?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A16399311&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Werewolves & shifters,https://www.amazon.com/s/ref=lp_23_nr_n_25?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A13922582011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Western,https://www.amazon.com/s/ref=lp_23_nr_n_26?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A271584011&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Writing,https://www.amazon.com/s/ref=lp_23_nr_n_27?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A23%2Cn%3A12036&bbn=23&ie=UTF8&qid=1552635151&rnid=23
+Books,Agricultural sciences,https://www.amazon.com/s/ref=lp_75_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A226680&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Archaeology,https://www.amazon.com/s/ref=lp_75_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A11242&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Astronomy & space science,https://www.amazon.com/s/ref=lp_75_nr_n_2?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13439&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Behavioral sciences,https://www.amazon.com/s/ref=lp_75_nr_n_3?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A226685&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Biological sciences,https://www.amazon.com/s/ref=lp_75_nr_n_4?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13469&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Chemistry,https://www.amazon.com/s/ref=lp_75_nr_n_5?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13570&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Earth sciences,https://www.amazon.com/s/ref=lp_75_nr_n_6?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13592&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Environment,https://www.amazon.com/s/ref=lp_75_nr_n_7?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A14459&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Essays & commentary,https://www.amazon.com/s/ref=lp_75_nr_n_8?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A3045861&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Evolution,https://www.amazon.com/s/ref=lp_75_nr_n_9?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13824&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Experiments instruments & measurement,https://www.amazon.com/s/ref=lp_75_nr_n_10?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13837&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,History & philosophy,https://www.amazon.com/s/ref=lp_75_nr_n_11?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13871&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Mathematics,https://www.amazon.com/s/ref=lp_75_nr_n_12?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13884&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Nature & ecology,https://www.amazon.com/s/ref=lp_75_nr_n_13?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A14452&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Physics,https://www.amazon.com/s/ref=lp_75_nr_n_14?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A14545&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Reference,https://www.amazon.com/s/ref=lp_75_nr_n_15?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A14603&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Research,https://www.amazon.com/s/ref=lp_75_nr_n_16?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13640&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Science for kids,https://www.amazon.com/s/ref=lp_75_nr_n_17?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A13642&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Technology,https://www.amazon.com/s/ref=lp_75_nr_n_18?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A75%2Cn%3A14631&bbn=75&ie=UTF8&qid=1552635275&rnid=75
+Books,Fantasy,https://www.amazon.com/s/ref=lp_25_nr_n_0?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A25%2Cn%3A16190&bbn=25&ie=UTF8&qid=1552635355&rnid=25
+Books,Gaming,https://www.amazon.com/s/ref=lp_25_nr_n_1?fst=as%3Aoff&rh=n%3A283155%2Cn%3A%211000%2Cn%3A25%2Cn%3A16211&bbn=25&ie=UTF8&qid=1552635355&rnid=25

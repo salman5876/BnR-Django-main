@@ -1,0 +1,30 @@
+
+version: "3"
+services:
+  web-snrbackend:
+    # replace username/repo:tag with your name and image details
+    image: brainplow/shopnroarbackenddev:latest
+    deploy:
+      replicas: 2
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+        max_attempts: 3
+        window: 120s
+    ports:
+      - "8005:8000"
+    networks:
+      - webnet
+
+  cache:
+    image: memcached
+    ports:
+      - "11211:11211"
+    entrypoint:
+      - memcached
+      - -m 64
+
+networks:
+  webnet:
+
+
